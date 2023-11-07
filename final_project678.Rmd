@@ -1,0 +1,46 @@
+---
+title: "Untitled"
+author: "Jiaxin Li"
+date: "2023-11-07"
+output: html_document
+---
+
+```{r setup, include=FALSE}
+knitr::opts_chunk$set(echo = TRUE)
+```
+
+
+
+```{r}
+patient_satisfaction <- read.csv("patientsatisfaction.csv")
+View(patient_satisfaction)
+
+
+# Timely and Effective Care measures - state data. This data set includes state-level data for measures of cataract surgery outcome, colonoscopy follow-up, heart attack care, emergency department care, preventive care, and pregnancy and delivery care.
+timely_effective_care_measures <- read.csv("aaa.csv")
+View(timely_effective_care_measures)
+
+# Unplanned Hospital Visits: state data. This data set includes state-level data for the hospital return days (or excess days in acute care [EDAC]) measures, the unplanned readmissions measures, and measures of unplanned hospital visits after outpatient procedures.
+unplanned_hospital_visits <- read.csv("bbb.csv")
+View(unplanned_hospital_visits)
+
+# Ambulatory Surgical Center Quality Measures - State.  This file contains state-level data for all measures reported through the Ambulatory Surgical Center Quality Reporting (ASCQR) Program.
+ASCquality_measures <- read.csv("ccc.csv")
+View(ASCquality_measures)
+
+# Complications and deaths - state data. This data set includes state-level data for the hip/knee complication measure, the CMS Patient Safety Indicators, and 30-day death rates.
+complications_deaths <- read.csv("ddd.csv")
+View(complications_deaths)
+
+# Maternal Health - State. These measures are intended to drive improvements in maternal health. By providing care to pregnant individuals that follows best practices that advance health care quality, safety, and equity, hospitals and doctors can improve chances for a safe delivery and a healthy baby.
+maternal_health <- read.csv("eee.csv")
+
+# The Medicare Spending Per Beneficiary (MSPB) Measure shows whether Medicare spends more, less, or about the same for an episode of care (episode) at a specific hospital compared to all hospitals nationally. An MSPB episode includes Medicare Part A and Part B payments for services provided by hospitals and other healthcare providers the 3 days prior to, during, and 30 days following a patient's inpatient stay. This measure evaluates hospitals' costs compared to the costs of the national median (or midpoint) hospital. This measure takes into account important factors like patient age and health status (risk adjustment) and geographic payment differences (payment-standardization). The data displayed here are the average measures for each state.
+MSPBmeasures <- read.csv("fff.csv")
+View(MSPBmeasures)
+
+# 
+
+
+```
+

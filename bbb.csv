@@ -1,0 +1,785 @@
+State,Measure ID,Measure Name,Number of Hospitals Worse,Number of Hospitals Same,Number of Hospitals Better,Number of Hospitals Too Few,Footnote,Start Date,End Date,Number of Hospitals Fewer,Number of Hospitals Average,Number of Hospitals More,Number of Hospitals Too Small
+WY,EDAC_30_AMI,Hospital return days for heart attack patients,,,,,,07/01/2019,06/30/2022,,,,
+WY,EDAC_30_HF,Hospital return days for heart failure patients,,,,,,07/01/2019,06/30/2022,,,,
+WY,EDAC_30_PN,Hospital return days for pneumonia patients,,,,,,07/01/2019,06/30/2022,,,,
+WY,OP_32,"Rate of unplanned hospital visits after colonoscopy (per 1,000 colonoscopies)",,,,,,01/01/2019,12/31/2021,,,,
+WY,OP_35_ADM,Rate of inpatient admissions for patients receiving outpatient chemotherapy,,,,,,01/01/2021,12/31/2021,,,,
+WY,OP_35_ED,Rate of emergency department (ED) visits for patients receiving outpatient chemotherapy,,,,,,01/01/2021,12/31/2021,,,,
+WY,OP_36,Ratio of unplanned hospital visits after hospital outpatient surgery,,,,,,01/01/2021,12/31/2021,,,,
+WY,READM_30_AMI,Acute Myocardial Infarction (AMI) 30-Day Readmission Rate,,,,,,07/01/2019,06/30/2022,,,,
+WY,READM_30_CABG,Rate of readmission for CABG,,,,,,07/01/2019,06/30/2022,,,,
+WY,READM_30_COPD,Rate of readmission for chronic obstructive pulmonary disease (COPD) patients,,,,,,07/01/2019,06/30/2022,,,,
+WY,READM_30_HF,Heart failure (HF) 30-Day Readmission Rate,,,,,,07/01/2019,06/30/2022,,,,
+WY,READM_30_HIP_KNEE,Rate of readmission after hip/knee replacement,,,,,,07/01/2019,06/30/2022,,,,
+WY,READM_30_HOSP_WIDE,Rate of readmission after discharge from hospital (hospital-wide),,,,,,07/01/2021,06/30/2022,,,,
+WY,READM_30_PN,Pneumonia (PN) 30-Day Readmission Rate,,,,,,07/01/2019,06/30/2022,,,,
+WV,EDAC_30_AMI,Hospital return days for heart attack patients,,,,,,07/01/2019,06/30/2022,,,,
+WV,EDAC_30_HF,Hospital return days for heart failure patients,,,,,,07/01/2019,06/30/2022,,,,
+WV,EDAC_30_PN,Hospital return days for pneumonia patients,,,,,,07/01/2019,06/30/2022,,,,
+WV,OP_32,"Rate of unplanned hospital visits after colonoscopy (per 1,000 colonoscopies)",,,,,,01/01/2019,12/31/2021,,,,
+WV,OP_35_ADM,Rate of inpatient admissions for patients receiving outpatient chemotherapy,,,,,,01/01/2021,12/31/2021,,,,
+WV,OP_35_ED,Rate of emergency department (ED) visits for patients receiving outpatient chemotherapy,,,,,,01/01/2021,12/31/2021,,,,
+WV,OP_36,Ratio of unplanned hospital visits after hospital outpatient surgery,,,,,,01/01/2021,12/31/2021,,,,
+WV,READM_30_AMI,Acute Myocardial Infarction (AMI) 30-Day Readmission Rate,,,,,,07/01/2019,06/30/2022,,,,
+WV,READM_30_CABG,Rate of readmission for CABG,,,,,,07/01/2019,06/30/2022,,,,
+WV,READM_30_COPD,Rate of readmission for chronic obstructive pulmonary disease (COPD) patients,,,,,,07/01/2019,06/30/2022,,,,
+WV,READM_30_HF,Heart failure (HF) 30-Day Readmission Rate,,,,,,07/01/2019,06/30/2022,,,,
+WV,READM_30_HIP_KNEE,Rate of readmission after hip/knee replacement,,,,,,07/01/2019,06/30/2022,,,,
+WV,READM_30_HOSP_WIDE,Rate of readmission after discharge from hospital (hospital-wide),,,,,,07/01/2021,06/30/2022,,,,
+WV,READM_30_PN,Pneumonia (PN) 30-Day Readmission Rate,,,,,,07/01/2019,06/30/2022,,,,
+WI,EDAC_30_AMI,Hospital return days for heart attack patients,,,,,,07/01/2019,06/30/2022,,,,
+WI,EDAC_30_HF,Hospital return days for heart failure patients,,,,,,07/01/2019,06/30/2022,,,,
+WI,EDAC_30_PN,Hospital return days for pneumonia patients,,,,,,07/01/2019,06/30/2022,,,,
+WI,OP_32,"Rate of unplanned hospital visits after colonoscopy (per 1,000 colonoscopies)",,,,,,01/01/2019,12/31/2021,,,,
+WI,OP_35_ADM,Rate of inpatient admissions for patients receiving outpatient chemotherapy,,,,,,01/01/2021,12/31/2021,,,,
+WI,OP_35_ED,Rate of emergency department (ED) visits for patients receiving outpatient chemotherapy,,,,,,01/01/2021,12/31/2021,,,,
+WI,OP_36,Ratio of unplanned hospital visits after hospital outpatient surgery,,,,,,01/01/2021,12/31/2021,,,,
+WI,READM_30_AMI,Acute Myocardial Infarction (AMI) 30-Day Readmission Rate,,,,,,07/01/2019,06/30/2022,,,,
+WI,READM_30_CABG,Rate of readmission for CABG,,,,,,07/01/2019,06/30/2022,,,,
+WI,READM_30_COPD,Rate of readmission for chronic obstructive pulmonary disease (COPD) patients,,,,,,07/01/2019,06/30/2022,,,,
+WI,READM_30_HF,Heart failure (HF) 30-Day Readmission Rate,,,,,,07/01/2019,06/30/2022,,,,
+WI,READM_30_HIP_KNEE,Rate of readmission after hip/knee replacement,,,,,,07/01/2019,06/30/2022,,,,
+WI,READM_30_HOSP_WIDE,Rate of readmission after discharge from hospital (hospital-wide),,,,,,07/01/2021,06/30/2022,,,,
+WI,READM_30_PN,Pneumonia (PN) 30-Day Readmission Rate,,,,,,07/01/2019,06/30/2022,,,,
+WA,EDAC_30_AMI,Hospital return days for heart attack patients,,,,,,07/01/2019,06/30/2022,,,,
+WA,EDAC_30_HF,Hospital return days for heart failure patients,,,,,,07/01/2019,06/30/2022,,,,
+WA,EDAC_30_PN,Hospital return days for pneumonia patients,,,,,,07/01/2019,06/30/2022,,,,
+WA,OP_32,"Rate of unplanned hospital visits after colonoscopy (per 1,000 colonoscopies)",,,,,,01/01/2019,12/31/2021,,,,
+WA,OP_35_ADM,Rate of inpatient admissions for patients receiving outpatient chemotherapy,,,,,,01/01/2021,12/31/2021,,,,
+WA,OP_35_ED,Rate of emergency department (ED) visits for patients receiving outpatient chemotherapy,,,,,,01/01/2021,12/31/2021,,,,
+WA,OP_36,Ratio of unplanned hospital visits after hospital outpatient surgery,,,,,,01/01/2021,12/31/2021,,,,
+WA,READM_30_AMI,Acute Myocardial Infarction (AMI) 30-Day Readmission Rate,,,,,,07/01/2019,06/30/2022,,,,
+WA,READM_30_CABG,Rate of readmission for CABG,,,,,,07/01/2019,06/30/2022,,,,
+WA,READM_30_COPD,Rate of readmission for chronic obstructive pulmonary disease (COPD) patients,,,,,,07/01/2019,06/30/2022,,,,
+WA,READM_30_HF,Heart failure (HF) 30-Day Readmission Rate,,,,,,07/01/2019,06/30/2022,,,,
+WA,READM_30_HIP_KNEE,Rate of readmission after hip/knee replacement,,,,,,07/01/2019,06/30/2022,,,,
+WA,READM_30_HOSP_WIDE,Rate of readmission after discharge from hospital (hospital-wide),,,,,,07/01/2021,06/30/2022,,,,
+WA,READM_30_PN,Pneumonia (PN) 30-Day Readmission Rate,,,,,,07/01/2019,06/30/2022,,,,
+VT,EDAC_30_AMI,Hospital return days for heart attack patients,,,,,,07/01/2019,06/30/2022,,,,
+VT,EDAC_30_HF,Hospital return days for heart failure patients,,,,,,07/01/2019,06/30/2022,,,,
+VT,EDAC_30_PN,Hospital return days for pneumonia patients,,,,,,07/01/2019,06/30/2022,,,,
+VT,OP_32,"Rate of unplanned hospital visits after colonoscopy (per 1,000 colonoscopies)",,,,,,01/01/2019,12/31/2021,,,,
+VT,OP_35_ADM,Rate of inpatient admissions for patients receiving outpatient chemotherapy,,,,,,01/01/2021,12/31/2021,,,,
+VT,OP_35_ED,Rate of emergency department (ED) visits for patients receiving outpatient chemotherapy,,,,,,01/01/2021,12/31/2021,,,,
+VT,OP_36,Ratio of unplanned hospital visits after hospital outpatient surgery,,,,,,01/01/2021,12/31/2021,,,,
+VT,READM_30_AMI,Acute Myocardial Infarction (AMI) 30-Day Readmission Rate,,,,,,07/01/2019,06/30/2022,,,,
+VT,READM_30_CABG,Rate of readmission for CABG,,,,,,07/01/2019,06/30/2022,,,,
+VT,READM_30_COPD,Rate of readmission for chronic obstructive pulmonary disease (COPD) patients,,,,,,07/01/2019,06/30/2022,,,,
+VT,READM_30_HF,Heart failure (HF) 30-Day Readmission Rate,,,,,,07/01/2019,06/30/2022,,,,
+VT,READM_30_HIP_KNEE,Rate of readmission after hip/knee replacement,,,,,,07/01/2019,06/30/2022,,,,
+VT,READM_30_HOSP_WIDE,Rate of readmission after discharge from hospital (hospital-wide),,,,,,07/01/2021,06/30/2022,,,,
+VT,READM_30_PN,Pneumonia (PN) 30-Day Readmission Rate,,,,,,07/01/2019,06/30/2022,,,,
+VI,EDAC_30_AMI,Hospital return days for heart attack patients,,,,,5,07/01/2019,06/30/2022,,,,
+VI,EDAC_30_HF,Hospital return days for heart failure patients,,,,,5,07/01/2019,06/30/2022,,,,
+VI,EDAC_30_PN,Hospital return days for pneumonia patients,,,,,5,07/01/2019,06/30/2022,,,,
+VI,OP_32,"Rate of unplanned hospital visits after colonoscopy (per 1,000 colonoscopies)",,,,,5,01/01/2019,12/31/2021,,,,
+VI,OP_35_ADM,Rate of inpatient admissions for patients receiving outpatient chemotherapy,,,,,5,01/01/2021,12/31/2021,,,,
+VI,OP_35_ED,Rate of emergency department (ED) visits for patients receiving outpatient chemotherapy,,,,,5,01/01/2021,12/31/2021,,,,
+VI,OP_36,Ratio of unplanned hospital visits after hospital outpatient surgery,,,,,5,01/01/2021,12/31/2021,,,,
+VI,READM_30_AMI,Acute Myocardial Infarction (AMI) 30-Day Readmission Rate,,,,,5,07/01/2019,06/30/2022,,,,
+VI,READM_30_CABG,Rate of readmission for CABG,,,,,5,07/01/2019,06/30/2022,,,,
+VI,READM_30_COPD,Rate of readmission for chronic obstructive pulmonary disease (COPD) patients,,,,,5,07/01/2019,06/30/2022,,,,
+VI,READM_30_HF,Heart failure (HF) 30-Day Readmission Rate,,,,,5,07/01/2019,06/30/2022,,,,
+VI,READM_30_HIP_KNEE,Rate of readmission after hip/knee replacement,,,,,5,07/01/2019,06/30/2022,,,,
+VI,READM_30_HOSP_WIDE,Rate of readmission after discharge from hospital (hospital-wide),,,,,5,07/01/2021,06/30/2022,,,,
+VI,READM_30_PN,Pneumonia (PN) 30-Day Readmission Rate,,,,,5,07/01/2019,06/30/2022,,,,
+VA,EDAC_30_AMI,Hospital return days for heart attack patients,,,,,,07/01/2019,06/30/2022,,,,
+VA,EDAC_30_HF,Hospital return days for heart failure patients,,,,,,07/01/2019,06/30/2022,,,,
+VA,EDAC_30_PN,Hospital return days for pneumonia patients,,,,,,07/01/2019,06/30/2022,,,,
+VA,OP_32,"Rate of unplanned hospital visits after colonoscopy (per 1,000 colonoscopies)",,,,,,01/01/2019,12/31/2021,,,,
+VA,OP_35_ADM,Rate of inpatient admissions for patients receiving outpatient chemotherapy,,,,,,01/01/2021,12/31/2021,,,,
+VA,OP_35_ED,Rate of emergency department (ED) visits for patients receiving outpatient chemotherapy,,,,,,01/01/2021,12/31/2021,,,,
+VA,OP_36,Ratio of unplanned hospital visits after hospital outpatient surgery,,,,,,01/01/2021,12/31/2021,,,,
+VA,READM_30_AMI,Acute Myocardial Infarction (AMI) 30-Day Readmission Rate,,,,,,07/01/2019,06/30/2022,,,,
+VA,READM_30_CABG,Rate of readmission for CABG,,,,,,07/01/2019,06/30/2022,,,,
+VA,READM_30_COPD,Rate of readmission for chronic obstructive pulmonary disease (COPD) patients,,,,,,07/01/2019,06/30/2022,,,,
+VA,READM_30_HF,Heart failure (HF) 30-Day Readmission Rate,,,,,,07/01/2019,06/30/2022,,,,
+VA,READM_30_HIP_KNEE,Rate of readmission after hip/knee replacement,,,,,,07/01/2019,06/30/2022,,,,
+VA,READM_30_HOSP_WIDE,Rate of readmission after discharge from hospital (hospital-wide),,,,,,07/01/2021,06/30/2022,,,,
+VA,READM_30_PN,Pneumonia (PN) 30-Day Readmission Rate,,,,,,07/01/2019,06/30/2022,,,,
+UT,EDAC_30_AMI,Hospital return days for heart attack patients,,,,,,07/01/2019,06/30/2022,,,,
+UT,EDAC_30_HF,Hospital return days for heart failure patients,,,,,,07/01/2019,06/30/2022,,,,
+UT,EDAC_30_PN,Hospital return days for pneumonia patients,,,,,,07/01/2019,06/30/2022,,,,
+UT,OP_32,"Rate of unplanned hospital visits after colonoscopy (per 1,000 colonoscopies)",,,,,,01/01/2019,12/31/2021,,,,
+UT,OP_35_ADM,Rate of inpatient admissions for patients receiving outpatient chemotherapy,,,,,,01/01/2021,12/31/2021,,,,
+UT,OP_35_ED,Rate of emergency department (ED) visits for patients receiving outpatient chemotherapy,,,,,,01/01/2021,12/31/2021,,,,
+UT,OP_36,Ratio of unplanned hospital visits after hospital outpatient surgery,,,,,,01/01/2021,12/31/2021,,,,
+UT,READM_30_AMI,Acute Myocardial Infarction (AMI) 30-Day Readmission Rate,,,,,,07/01/2019,06/30/2022,,,,
+UT,READM_30_CABG,Rate of readmission for CABG,,,,,,07/01/2019,06/30/2022,,,,
+UT,READM_30_COPD,Rate of readmission for chronic obstructive pulmonary disease (COPD) patients,,,,,,07/01/2019,06/30/2022,,,,
+UT,READM_30_HF,Heart failure (HF) 30-Day Readmission Rate,,,,,,07/01/2019,06/30/2022,,,,
+UT,READM_30_HIP_KNEE,Rate of readmission after hip/knee replacement,,,,,,07/01/2019,06/30/2022,,,,
+UT,READM_30_HOSP_WIDE,Rate of readmission after discharge from hospital (hospital-wide),,,,,,07/01/2021,06/30/2022,,,,
+UT,READM_30_PN,Pneumonia (PN) 30-Day Readmission Rate,,,,,,07/01/2019,06/30/2022,,,,
+TX,EDAC_30_AMI,Hospital return days for heart attack patients,,,,,,07/01/2019,06/30/2022,,,,
+TX,EDAC_30_HF,Hospital return days for heart failure patients,,,,,,07/01/2019,06/30/2022,,,,
+TX,EDAC_30_PN,Hospital return days for pneumonia patients,,,,,,07/01/2019,06/30/2022,,,,
+TX,OP_32,"Rate of unplanned hospital visits after colonoscopy (per 1,000 colonoscopies)",,,,,,01/01/2019,12/31/2021,,,,
+TX,OP_35_ADM,Rate of inpatient admissions for patients receiving outpatient chemotherapy,,,,,,01/01/2021,12/31/2021,,,,
+TX,OP_35_ED,Rate of emergency department (ED) visits for patients receiving outpatient chemotherapy,,,,,,01/01/2021,12/31/2021,,,,
+TX,OP_36,Ratio of unplanned hospital visits after hospital outpatient surgery,,,,,,01/01/2021,12/31/2021,,,,
+TX,READM_30_AMI,Acute Myocardial Infarction (AMI) 30-Day Readmission Rate,,,,,,07/01/2019,06/30/2022,,,,
+TX,READM_30_CABG,Rate of readmission for CABG,,,,,,07/01/2019,06/30/2022,,,,
+TX,READM_30_COPD,Rate of readmission for chronic obstructive pulmonary disease (COPD) patients,,,,,,07/01/2019,06/30/2022,,,,
+TX,READM_30_HF,Heart failure (HF) 30-Day Readmission Rate,,,,,,07/01/2019,06/30/2022,,,,
+TX,READM_30_HIP_KNEE,Rate of readmission after hip/knee replacement,,,,,,07/01/2019,06/30/2022,,,,
+TX,READM_30_HOSP_WIDE,Rate of readmission after discharge from hospital (hospital-wide),,,,,,07/01/2021,06/30/2022,,,,
+TX,READM_30_PN,Pneumonia (PN) 30-Day Readmission Rate,,,,,,07/01/2019,06/30/2022,,,,
+TN,EDAC_30_AMI,Hospital return days for heart attack patients,,,,,,07/01/2019,06/30/2022,,,,
+TN,EDAC_30_HF,Hospital return days for heart failure patients,,,,,,07/01/2019,06/30/2022,,,,
+TN,EDAC_30_PN,Hospital return days for pneumonia patients,,,,,,07/01/2019,06/30/2022,,,,
+TN,OP_32,"Rate of unplanned hospital visits after colonoscopy (per 1,000 colonoscopies)",,,,,,01/01/2019,12/31/2021,,,,
+TN,OP_35_ADM,Rate of inpatient admissions for patients receiving outpatient chemotherapy,,,,,,01/01/2021,12/31/2021,,,,
+TN,OP_35_ED,Rate of emergency department (ED) visits for patients receiving outpatient chemotherapy,,,,,,01/01/2021,12/31/2021,,,,
+TN,OP_36,Ratio of unplanned hospital visits after hospital outpatient surgery,,,,,,01/01/2021,12/31/2021,,,,
+TN,READM_30_AMI,Acute Myocardial Infarction (AMI) 30-Day Readmission Rate,,,,,,07/01/2019,06/30/2022,,,,
+TN,READM_30_CABG,Rate of readmission for CABG,,,,,,07/01/2019,06/30/2022,,,,
+TN,READM_30_COPD,Rate of readmission for chronic obstructive pulmonary disease (COPD) patients,,,,,,07/01/2019,06/30/2022,,,,
+TN,READM_30_HF,Heart failure (HF) 30-Day Readmission Rate,,,,,,07/01/2019,06/30/2022,,,,
+TN,READM_30_HIP_KNEE,Rate of readmission after hip/knee replacement,,,,,,07/01/2019,06/30/2022,,,,
+TN,READM_30_HOSP_WIDE,Rate of readmission after discharge from hospital (hospital-wide),,,,,,07/01/2021,06/30/2022,,,,
+TN,READM_30_PN,Pneumonia (PN) 30-Day Readmission Rate,,,,,,07/01/2019,06/30/2022,,,,
+SD,EDAC_30_AMI,Hospital return days for heart attack patients,,,,,,07/01/2019,06/30/2022,,,,
+SD,EDAC_30_HF,Hospital return days for heart failure patients,,,,,,07/01/2019,06/30/2022,,,,
+SD,EDAC_30_PN,Hospital return days for pneumonia patients,,,,,,07/01/2019,06/30/2022,,,,
+SD,OP_32,"Rate of unplanned hospital visits after colonoscopy (per 1,000 colonoscopies)",,,,,,01/01/2019,12/31/2021,,,,
+SD,OP_35_ADM,Rate of inpatient admissions for patients receiving outpatient chemotherapy,,,,,,01/01/2021,12/31/2021,,,,
+SD,OP_35_ED,Rate of emergency department (ED) visits for patients receiving outpatient chemotherapy,,,,,,01/01/2021,12/31/2021,,,,
+SD,OP_36,Ratio of unplanned hospital visits after hospital outpatient surgery,,,,,,01/01/2021,12/31/2021,,,,
+SD,READM_30_AMI,Acute Myocardial Infarction (AMI) 30-Day Readmission Rate,,,,,,07/01/2019,06/30/2022,,,,
+SD,READM_30_CABG,Rate of readmission for CABG,,,,,,07/01/2019,06/30/2022,,,,
+SD,READM_30_COPD,Rate of readmission for chronic obstructive pulmonary disease (COPD) patients,,,,,,07/01/2019,06/30/2022,,,,
+SD,READM_30_HF,Heart failure (HF) 30-Day Readmission Rate,,,,,,07/01/2019,06/30/2022,,,,
+SD,READM_30_HIP_KNEE,Rate of readmission after hip/knee replacement,,,,,,07/01/2019,06/30/2022,,,,
+SD,READM_30_HOSP_WIDE,Rate of readmission after discharge from hospital (hospital-wide),,,,,,07/01/2021,06/30/2022,,,,
+SD,READM_30_PN,Pneumonia (PN) 30-Day Readmission Rate,,,,,,07/01/2019,06/30/2022,,,,
+SC,EDAC_30_AMI,Hospital return days for heart attack patients,,,,,,07/01/2019,06/30/2022,,,,
+SC,EDAC_30_HF,Hospital return days for heart failure patients,,,,,,07/01/2019,06/30/2022,,,,
+SC,EDAC_30_PN,Hospital return days for pneumonia patients,,,,,,07/01/2019,06/30/2022,,,,
+SC,OP_32,"Rate of unplanned hospital visits after colonoscopy (per 1,000 colonoscopies)",,,,,,01/01/2019,12/31/2021,,,,
+SC,OP_35_ADM,Rate of inpatient admissions for patients receiving outpatient chemotherapy,,,,,,01/01/2021,12/31/2021,,,,
+SC,OP_35_ED,Rate of emergency department (ED) visits for patients receiving outpatient chemotherapy,,,,,,01/01/2021,12/31/2021,,,,
+SC,OP_36,Ratio of unplanned hospital visits after hospital outpatient surgery,,,,,,01/01/2021,12/31/2021,,,,
+SC,READM_30_AMI,Acute Myocardial Infarction (AMI) 30-Day Readmission Rate,,,,,,07/01/2019,06/30/2022,,,,
+SC,READM_30_CABG,Rate of readmission for CABG,,,,,,07/01/2019,06/30/2022,,,,
+SC,READM_30_COPD,Rate of readmission for chronic obstructive pulmonary disease (COPD) patients,,,,,,07/01/2019,06/30/2022,,,,
+SC,READM_30_HF,Heart failure (HF) 30-Day Readmission Rate,,,,,,07/01/2019,06/30/2022,,,,
+SC,READM_30_HIP_KNEE,Rate of readmission after hip/knee replacement,,,,,,07/01/2019,06/30/2022,,,,
+SC,READM_30_HOSP_WIDE,Rate of readmission after discharge from hospital (hospital-wide),,,,,,07/01/2021,06/30/2022,,,,
+SC,READM_30_PN,Pneumonia (PN) 30-Day Readmission Rate,,,,,,07/01/2019,06/30/2022,,,,
+RI,EDAC_30_AMI,Hospital return days for heart attack patients,,,,,,07/01/2019,06/30/2022,,,,
+RI,EDAC_30_HF,Hospital return days for heart failure patients,,,,,,07/01/2019,06/30/2022,,,,
+RI,EDAC_30_PN,Hospital return days for pneumonia patients,,,,,,07/01/2019,06/30/2022,,,,
+RI,OP_32,"Rate of unplanned hospital visits after colonoscopy (per 1,000 colonoscopies)",,,,,,01/01/2019,12/31/2021,,,,
+RI,OP_35_ADM,Rate of inpatient admissions for patients receiving outpatient chemotherapy,,,,,,01/01/2021,12/31/2021,,,,
+RI,OP_35_ED,Rate of emergency department (ED) visits for patients receiving outpatient chemotherapy,,,,,,01/01/2021,12/31/2021,,,,
+RI,OP_36,Ratio of unplanned hospital visits after hospital outpatient surgery,,,,,,01/01/2021,12/31/2021,,,,
+RI,READM_30_AMI,Acute Myocardial Infarction (AMI) 30-Day Readmission Rate,,,,,,07/01/2019,06/30/2022,,,,
+RI,READM_30_CABG,Rate of readmission for CABG,,,,,,07/01/2019,06/30/2022,,,,
+RI,READM_30_COPD,Rate of readmission for chronic obstructive pulmonary disease (COPD) patients,,,,,,07/01/2019,06/30/2022,,,,
+RI,READM_30_HF,Heart failure (HF) 30-Day Readmission Rate,,,,,,07/01/2019,06/30/2022,,,,
+RI,READM_30_HIP_KNEE,Rate of readmission after hip/knee replacement,,,,,,07/01/2019,06/30/2022,,,,
+RI,READM_30_HOSP_WIDE,Rate of readmission after discharge from hospital (hospital-wide),,,,,,07/01/2021,06/30/2022,,,,
+RI,READM_30_PN,Pneumonia (PN) 30-Day Readmission Rate,,,,,,07/01/2019,06/30/2022,,,,
+PR,EDAC_30_AMI,Hospital return days for heart attack patients,,,,,,07/01/2019,06/30/2022,,,,
+PR,EDAC_30_HF,Hospital return days for heart failure patients,,,,,,07/01/2019,06/30/2022,,,,
+PR,EDAC_30_PN,Hospital return days for pneumonia patients,,,,,,07/01/2019,06/30/2022,,,,
+PR,OP_32,"Rate of unplanned hospital visits after colonoscopy (per 1,000 colonoscopies)",,,,,,01/01/2019,12/31/2021,,,,
+PR,OP_35_ADM,Rate of inpatient admissions for patients receiving outpatient chemotherapy,,,,,,01/01/2021,12/31/2021,,,,
+PR,OP_35_ED,Rate of emergency department (ED) visits for patients receiving outpatient chemotherapy,,,,,,01/01/2021,12/31/2021,,,,
+PR,OP_36,Ratio of unplanned hospital visits after hospital outpatient surgery,,,,,,01/01/2021,12/31/2021,,,,
+PR,READM_30_AMI,Acute Myocardial Infarction (AMI) 30-Day Readmission Rate,,,,,,07/01/2019,06/30/2022,,,,
+PR,READM_30_CABG,Rate of readmission for CABG,,,,,,07/01/2019,06/30/2022,,,,
+PR,READM_30_COPD,Rate of readmission for chronic obstructive pulmonary disease (COPD) patients,,,,,,07/01/2019,06/30/2022,,,,
+PR,READM_30_HF,Heart failure (HF) 30-Day Readmission Rate,,,,,,07/01/2019,06/30/2022,,,,
+PR,READM_30_HIP_KNEE,Rate of readmission after hip/knee replacement,,,,,,07/01/2019,06/30/2022,,,,
+PR,READM_30_HOSP_WIDE,Rate of readmission after discharge from hospital (hospital-wide),,,,,,07/01/2021,06/30/2022,,,,
+PR,READM_30_PN,Pneumonia (PN) 30-Day Readmission Rate,,,,,,07/01/2019,06/30/2022,,,,
+PA,EDAC_30_AMI,Hospital return days for heart attack patients,,,,,,07/01/2019,06/30/2022,,,,
+PA,EDAC_30_HF,Hospital return days for heart failure patients,,,,,,07/01/2019,06/30/2022,,,,
+PA,EDAC_30_PN,Hospital return days for pneumonia patients,,,,,,07/01/2019,06/30/2022,,,,
+PA,OP_32,"Rate of unplanned hospital visits after colonoscopy (per 1,000 colonoscopies)",,,,,,01/01/2019,12/31/2021,,,,
+PA,OP_35_ADM,Rate of inpatient admissions for patients receiving outpatient chemotherapy,,,,,,01/01/2021,12/31/2021,,,,
+PA,OP_35_ED,Rate of emergency department (ED) visits for patients receiving outpatient chemotherapy,,,,,,01/01/2021,12/31/2021,,,,
+PA,OP_36,Ratio of unplanned hospital visits after hospital outpatient surgery,,,,,,01/01/2021,12/31/2021,,,,
+PA,READM_30_AMI,Acute Myocardial Infarction (AMI) 30-Day Readmission Rate,,,,,,07/01/2019,06/30/2022,,,,
+PA,READM_30_CABG,Rate of readmission for CABG,,,,,,07/01/2019,06/30/2022,,,,
+PA,READM_30_COPD,Rate of readmission for chronic obstructive pulmonary disease (COPD) patients,,,,,,07/01/2019,06/30/2022,,,,
+PA,READM_30_HF,Heart failure (HF) 30-Day Readmission Rate,,,,,,07/01/2019,06/30/2022,,,,
+PA,READM_30_HIP_KNEE,Rate of readmission after hip/knee replacement,,,,,,07/01/2019,06/30/2022,,,,
+PA,READM_30_HOSP_WIDE,Rate of readmission after discharge from hospital (hospital-wide),,,,,,07/01/2021,06/30/2022,,,,
+PA,READM_30_PN,Pneumonia (PN) 30-Day Readmission Rate,,,,,,07/01/2019,06/30/2022,,,,
+OR,EDAC_30_AMI,Hospital return days for heart attack patients,,,,,,07/01/2019,06/30/2022,,,,
+OR,EDAC_30_HF,Hospital return days for heart failure patients,,,,,,07/01/2019,06/30/2022,,,,
+OR,EDAC_30_PN,Hospital return days for pneumonia patients,30.00 ,140.00 ,9.00 ,5.00 ,,07/01/2019,06/30/2022,,,,
+OR,OP_32,"Rate of unplanned hospital visits after colonoscopy (per 1,000 colonoscopies)",18.00 ,39.00 ,1.00 ,0.00 ,,01/01/2019,12/31/2021,,,,
+OR,OP_35_ADM,Rate of inpatient admissions for patients receiving outpatient chemotherapy,18.00 ,287.00 ,14.00 ,9.00 ,,01/01/2021,12/31/2021,,,,
+OR,OP_35_ED,Rate of emergency department (ED) visits for patients receiving outpatient chemotherapy,15.00 ,135.00 ,6.00 ,5.00 ,,01/01/2021,12/31/2021,,,,
+OR,OP_36,Ratio of unplanned hospital visits after hospital outpatient surgery,15.00 ,155.00 ,0.00 ,6.00 ,,01/01/2021,12/31/2021,,,,
+OR,READM_30_AMI,Acute Myocardial Infarction (AMI) 30-Day Readmission Rate,13.00 ,141.00 ,4.00 ,4.00 ,,07/01/2019,06/30/2022,,,,
+OR,READM_30_CABG,Rate of readmission for CABG,13.00 ,48.00 ,3.00 ,0.00 ,,07/01/2019,06/30/2022,,,,
+OR,READM_30_COPD,Rate of readmission for chronic obstructive pulmonary disease (COPD) patients,11.00 ,324.00 ,10.00 ,39.00 ,,07/01/2019,06/30/2022,,,,
+OR,READM_30_HF,Heart failure (HF) 30-Day Readmission Rate,11.00 ,134.00 ,6.00 ,17.00 ,,07/01/2019,06/30/2022,,,,
+OR,READM_30_HIP_KNEE,Rate of readmission after hip/knee replacement,11.00 ,90.00 ,1.00 ,111.00 ,,07/01/2019,06/30/2022,,,,
+OR,READM_30_HOSP_WIDE,Rate of readmission after discharge from hospital (hospital-wide),9.00 ,218.00 ,2.00 ,74.00 ,,07/01/2021,06/30/2022,,,,
+OR,READM_30_PN,Pneumonia (PN) 30-Day Readmission Rate,9.00 ,159.00 ,2.00 ,15.00 ,,07/01/2019,06/30/2022,,,,
+OK,EDAC_30_AMI,Hospital return days for heart attack patients,8.00 ,78.00 ,1.00 ,49.00 ,,07/01/2019,06/30/2022,,,,
+OK,EDAC_30_HF,Hospital return days for heart failure patients,8.00 ,62.00 ,0.00 ,71.00 ,,07/01/2019,06/30/2022,,,,
+OK,EDAC_30_PN,Hospital return days for pneumonia patients,8.00 ,174.00 ,14.00 ,91.00 ,,07/01/2019,06/30/2022,,,,
+OK,OP_32,"Rate of unplanned hospital visits after colonoscopy (per 1,000 colonoscopies)",7.00 ,66.00 ,0.00 ,61.00 ,,01/01/2019,12/31/2021,,,,
+OK,OP_35_ADM,Rate of inpatient admissions for patients receiving outpatient chemotherapy,7.00 ,142.00 ,1.00 ,15.00 ,,01/01/2021,12/31/2021,,,,
+OK,OP_35_ED,Rate of emergency department (ED) visits for patients receiving outpatient chemotherapy,7.00 ,248.00 ,0.00 ,65.00 ,,01/01/2021,12/31/2021,,,,
+OK,OP_36,Ratio of unplanned hospital visits after hospital outpatient surgery,6.00 ,139.00 ,1.00 ,17.00 ,,01/01/2021,12/31/2021,,,,
+OK,READM_30_AMI,Acute Myocardial Infarction (AMI) 30-Day Readmission Rate,6.00 ,35.00 ,0.00 ,16.00 ,,07/01/2019,06/30/2022,,,,
+OK,READM_30_CABG,Rate of readmission for CABG,6.00 ,48.00 ,0.00 ,14.00 ,,07/01/2019,06/30/2022,,,,
+OK,READM_30_COPD,Rate of readmission for chronic obstructive pulmonary disease (COPD) patients,5.00 ,86.00 ,1.00 ,4.00 ,,07/01/2019,06/30/2022,,,,
+OK,READM_30_HF,Heart failure (HF) 30-Day Readmission Rate,5.00 ,120.00 ,3.00 ,18.00 ,,07/01/2019,06/30/2022,,,,
+OK,READM_30_HIP_KNEE,Rate of readmission after hip/knee replacement,5.00 ,70.00 ,0.00 ,63.00 ,,07/01/2019,06/30/2022,,,,
+OK,READM_30_HOSP_WIDE,Rate of readmission after discharge from hospital (hospital-wide),5.00 ,107.00 ,8.00 ,11.00 ,,07/01/2021,06/30/2022,,,,
+OK,READM_30_PN,Pneumonia (PN) 30-Day Readmission Rate,5.00 ,51.00 ,0.00 ,2.00 ,,07/01/2019,06/30/2022,,,,
+OH,EDAC_30_AMI,Hospital return days for heart attack patients,5.00 ,37.00 ,2.00 ,50.00 ,,07/01/2019,06/30/2022,,,,
+OH,EDAC_30_HF,Hospital return days for heart failure patients,5.00 ,95.00 ,2.00 ,111.00 ,,07/01/2019,06/30/2022,,,,
+OH,EDAC_30_PN,Hospital return days for pneumonia patients,5.00 ,265.00 ,0.00 ,55.00 ,,07/01/2019,06/30/2022,,,,
+OH,OP_32,"Rate of unplanned hospital visits after colonoscopy (per 1,000 colonoscopies)",4.00 ,54.00 ,0.00 ,142.00 ,,01/01/2019,12/31/2021,,,,
+OH,OP_35_ADM,Rate of inpatient admissions for patients receiving outpatient chemotherapy,4.00 ,19.00 ,0.00 ,37.00 ,,01/01/2021,12/31/2021,,,,
+OH,OP_35_ED,Rate of emergency department (ED) visits for patients receiving outpatient chemotherapy,4.00 ,53.00 ,0.00 ,14.00 ,,01/01/2021,12/31/2021,,,,
+OH,OP_36,Ratio of unplanned hospital visits after hospital outpatient surgery,4.00 ,59.00 ,1.00 ,1.00 ,,01/01/2021,12/31/2021,,,,
+OH,READM_30_AMI,Acute Myocardial Infarction (AMI) 30-Day Readmission Rate,4.00 ,87.00 ,2.00 ,13.00 ,,07/01/2019,06/30/2022,,,,
+OH,READM_30_CABG,Rate of readmission for CABG,4.00 ,36.00 ,0.00 ,46.00 ,,07/01/2019,06/30/2022,,,,
+OH,READM_30_COPD,Rate of readmission for chronic obstructive pulmonary disease (COPD) patients,4.00 ,97.00 ,1.00 ,13.00 ,,07/01/2019,06/30/2022,,,,
+OH,READM_30_HF,Heart failure (HF) 30-Day Readmission Rate,4.00 ,132.00 ,1.00 ,43.00 ,,07/01/2019,06/30/2022,,,,
+OH,READM_30_HIP_KNEE,Rate of readmission after hip/knee replacement,4.00 ,76.00 ,3.00 ,27.00 ,,07/01/2019,06/30/2022,,,,
+OH,READM_30_HOSP_WIDE,Rate of readmission after discharge from hospital (hospital-wide),4.00 ,170.00 ,1.00 ,14.00 ,,07/01/2021,06/30/2022,,,,
+OH,READM_30_PN,Pneumonia (PN) 30-Day Readmission Rate,3.00 ,42.00 ,0.00 ,4.00 ,,07/01/2019,06/30/2022,,,,
+NY,EDAC_30_AMI,Hospital return days for heart attack patients,3.00 ,206.00 ,3.00 ,139.00 ,,07/01/2019,06/30/2022,,,,
+NY,EDAC_30_HF,Hospital return days for heart failure patients,3.00 ,249.00 ,3.00 ,103.00 ,,07/01/2019,06/30/2022,,,,
+NY,EDAC_30_PN,Hospital return days for pneumonia patients,3.00 ,126.00 ,3.00 ,18.00 ,,07/01/2019,06/30/2022,,,,
+NY,OP_32,"Rate of unplanned hospital visits after colonoscopy (per 1,000 colonoscopies)",3.00 ,144.00 ,5.00 ,6.00 ,,01/01/2019,12/31/2021,,,,
+NY,OP_35_ADM,Rate of inpatient admissions for patients receiving outpatient chemotherapy,3.00 ,18.00 ,0.00 ,6.00 ,,01/01/2021,12/31/2021,,,,
+NY,OP_35_ED,Rate of emergency department (ED) visits for patients receiving outpatient chemotherapy,3.00 ,29.00 ,1.00 ,3.00 ,,01/01/2021,12/31/2021,,,,
+NY,OP_36,Ratio of unplanned hospital visits after hospital outpatient surgery,3.00 ,61.00 ,1.00 ,0.00 ,,01/01/2021,12/31/2021,,,,
+NY,READM_30_AMI,Acute Myocardial Infarction (AMI) 30-Day Readmission Rate,3.00 ,79.00 ,0.00 ,11.00 ,,07/01/2019,06/30/2022,,,,
+NY,READM_30_CABG,Rate of readmission for CABG,3.00 ,63.00 ,1.00 ,22.00 ,,07/01/2019,06/30/2022,,,,
+NY,READM_30_COPD,Rate of readmission for chronic obstructive pulmonary disease (COPD) patients,3.00 ,99.00 ,3.00 ,1.00 ,,07/01/2019,06/30/2022,,,,
+NY,READM_30_HF,Heart failure (HF) 30-Day Readmission Rate,3.00 ,52.00 ,0.00 ,51.00 ,,07/01/2019,06/30/2022,,,,
+NY,READM_30_HIP_KNEE,Rate of readmission after hip/knee replacement,3.00 ,20.00 ,0.00 ,18.00 ,,07/01/2019,06/30/2022,,,,
+NY,READM_30_HOSP_WIDE,Rate of readmission after discharge from hospital (hospital-wide),3.00 ,53.00 ,0.00 ,2.00 ,,07/01/2021,06/30/2022,,,,
+NY,READM_30_PN,Pneumonia (PN) 30-Day Readmission Rate,3.00 ,30.00 ,0.00 ,29.00 ,,07/01/2019,06/30/2022,,,,
+NV,EDAC_30_AMI,Hospital return days for heart attack patients,3.00 ,13.00 ,0.00 ,58.00 ,,07/01/2019,06/30/2022,,,,
+NV,EDAC_30_HF,Hospital return days for heart failure patients,3.00 ,51.00 ,0.00 ,41.00 ,,07/01/2019,06/30/2022,,,,
+NV,EDAC_30_PN,Hospital return days for pneumonia patients,3.00 ,79.00 ,2.00 ,30.00 ,,07/01/2019,06/30/2022,,,,
+NV,OP_32,"Rate of unplanned hospital visits after colonoscopy (per 1,000 colonoscopies)",3.00 ,111.00 ,3.00 ,3.00 ,,01/01/2019,12/31/2021,,,,
+NV,OP_35_ADM,Rate of inpatient admissions for patients receiving outpatient chemotherapy,3.00 ,151.00 ,0.00 ,26.00 ,,01/01/2021,12/31/2021,,,,
+NV,OP_35_ED,Rate of emergency department (ED) visits for patients receiving outpatient chemotherapy,3.00 ,39.00 ,0.00 ,40.00 ,,01/01/2021,12/31/2021,,,,
+NV,OP_36,Ratio of unplanned hospital visits after hospital outpatient surgery,3.00 ,158.00 ,1.00 ,24.00 ,,01/01/2021,12/31/2021,,,,
+NV,READM_30_AMI,Acute Myocardial Infarction (AMI) 30-Day Readmission Rate,3.00 ,69.00 ,1.00 ,3.00 ,,07/01/2019,06/30/2022,,,,
+NV,READM_30_CABG,Rate of readmission for CABG,2.00 ,12.00 ,0.00 ,18.00 ,,07/01/2019,06/30/2022,,,,
+NV,READM_30_COPD,Rate of readmission for chronic obstructive pulmonary disease (COPD) patients,2.00 ,116.00 ,6.00 ,4.00 ,,07/01/2019,06/30/2022,,,,
+NV,READM_30_HF,Heart failure (HF) 30-Day Readmission Rate,2.00 ,51.00 ,1.00 ,8.00 ,,07/01/2019,06/30/2022,,,,
+NV,READM_30_HIP_KNEE,Rate of readmission after hip/knee replacement,2.00 ,32.00 ,1.00 ,32.00 ,,07/01/2019,06/30/2022,,,,
+NV,READM_30_HOSP_WIDE,Rate of readmission after discharge from hospital (hospital-wide),2.00 ,73.00 ,4.00 ,2.00 ,,07/01/2021,06/30/2022,,,,
+NV,READM_30_PN,Pneumonia (PN) 30-Day Readmission Rate,2.00 ,153.00 ,1.00 ,105.00 ,,07/01/2019,06/30/2022,,,,
+NM,EDAC_30_AMI,Hospital return days for heart attack patients,2.00 ,68.00 ,2.00 ,27.00 ,,07/01/2019,06/30/2022,,,,
+NM,EDAC_30_HF,Hospital return days for heart failure patients,2.00 ,45.00 ,0.00 ,4.00 ,,07/01/2019,06/30/2022,,,,
+NM,EDAC_30_PN,Hospital return days for pneumonia patients,2.00 ,22.00 ,0.00 ,25.00 ,,07/01/2019,06/30/2022,,,,
+NM,OP_32,"Rate of unplanned hospital visits after colonoscopy (per 1,000 colonoscopies)",2.00 ,19.00 ,1.00 ,41.00 ,,01/01/2019,12/31/2021,,,,
+NM,OP_35_ADM,Rate of inpatient admissions for patients receiving outpatient chemotherapy,2.00 ,126.00 ,3.00 ,19.00 ,,01/01/2021,12/31/2021,,,,
+NM,OP_35_ED,Rate of emergency department (ED) visits for patients receiving outpatient chemotherapy,2.00 ,13.00 ,0.00 ,4.00 ,,01/01/2021,12/31/2021,,,,
+NM,OP_36,Ratio of unplanned hospital visits after hospital outpatient surgery,2.00 ,95.00 ,10.00 ,1.00 ,,01/01/2021,12/31/2021,,,,
+NM,READM_30_AMI,Acute Myocardial Infarction (AMI) 30-Day Readmission Rate,2.00 ,16.00 ,0.00 ,26.00 ,,07/01/2019,06/30/2022,,,,
+NM,READM_30_CABG,Rate of readmission for CABG,2.00 ,76.00 ,0.00 ,29.00 ,,07/01/2019,06/30/2022,,,,
+NM,READM_30_COPD,Rate of readmission for chronic obstructive pulmonary disease (COPD) patients,2.00 ,44.00 ,0.00 ,59.00 ,,07/01/2019,06/30/2022,,,,
+NM,READM_30_HF,Heart failure (HF) 30-Day Readmission Rate,2.00 ,90.00 ,2.00 ,21.00 ,,07/01/2019,06/30/2022,,,,
+NM,READM_30_HIP_KNEE,Rate of readmission after hip/knee replacement,2.00 ,86.00 ,0.00 ,35.00 ,,07/01/2019,06/30/2022,,,,
+NM,READM_30_HOSP_WIDE,Rate of readmission after discharge from hospital (hospital-wide),2.00 ,91.00 ,4.00 ,25.00 ,,07/01/2021,06/30/2022,,,,
+NM,READM_30_PN,Pneumonia (PN) 30-Day Readmission Rate,2.00 ,41.00 ,0.00 ,1.00 ,,07/01/2019,06/30/2022,,,,
+NJ,EDAC_30_AMI,Hospital return days for heart attack patients,2.00 ,36.00 ,0.00 ,16.00 ,,07/01/2019,06/30/2022,,,,
+NJ,EDAC_30_HF,Hospital return days for heart failure patients,2.00 ,29.00 ,0.00 ,25.00 ,,07/01/2019,06/30/2022,,,,
+NJ,EDAC_30_PN,Hospital return days for pneumonia patients,2.00 ,53.00 ,0.00 ,3.00 ,,07/01/2019,06/30/2022,,,,
+NJ,OP_32,"Rate of unplanned hospital visits after colonoscopy (per 1,000 colonoscopies)",2.00 ,62.00 ,0.00 ,34.00 ,,01/01/2019,12/31/2021,,,,
+NJ,OP_35_ADM,Rate of inpatient admissions for patients receiving outpatient chemotherapy,2.00 ,85.00 ,2.00 ,3.00 ,,01/01/2021,12/31/2021,,,,
+NJ,OP_35_ED,Rate of emergency department (ED) visits for patients receiving outpatient chemotherapy,2.00 ,27.00 ,0.00 ,68.00 ,,01/01/2021,12/31/2021,,,,
+NJ,OP_36,Ratio of unplanned hospital visits after hospital outpatient surgery,2.00 ,118.00 ,0.00 ,10.00 ,,01/01/2021,12/31/2021,,,,
+NJ,READM_30_AMI,Acute Myocardial Infarction (AMI) 30-Day Readmission Rate,2.00 ,52.00 ,1.00 ,8.00 ,,07/01/2019,06/30/2022,,,,
+NJ,READM_30_CABG,Rate of readmission for CABG,2.00 ,31.00 ,2.00 ,25.00 ,,07/01/2019,06/30/2022,,,,
+NJ,READM_30_COPD,Rate of readmission for chronic obstructive pulmonary disease (COPD) patients,2.00 ,73.00 ,5.00 ,3.00 ,,07/01/2019,06/30/2022,,,,
+NJ,READM_30_HF,Heart failure (HF) 30-Day Readmission Rate,2.00 ,14.00 ,0.00 ,26.00 ,,07/01/2019,06/30/2022,,,,
+NJ,READM_30_HIP_KNEE,Rate of readmission after hip/knee replacement,1.00 ,8.00 ,0.00 ,10.00 ,,07/01/2019,06/30/2022,,,,
+NJ,READM_30_HOSP_WIDE,Rate of readmission after discharge from hospital (hospital-wide),1.00 ,5.00 ,0.00 ,0.00 ,,07/01/2021,06/30/2022,,,,
+NJ,READM_30_PN,Pneumonia (PN) 30-Day Readmission Rate,1.00 ,31.00 ,0.00 ,19.00 ,,07/01/2019,06/30/2022,,,,
+NH,EDAC_30_AMI,Hospital return days for heart attack patients,1.00 ,72.00 ,0.00 ,32.00 ,,07/01/2019,06/30/2022,,,,
+NH,EDAC_30_HF,Hospital return days for heart failure patients,1.00 ,62.00 ,0.00 ,62.00 ,,07/01/2019,06/30/2022,,,,
+NH,EDAC_30_PN,Hospital return days for pneumonia patients,1.00 ,91.00 ,0.00 ,32.00 ,,07/01/2019,06/30/2022,,,,
+NH,OP_32,"Rate of unplanned hospital visits after colonoscopy (per 1,000 colonoscopies)",1.00 ,55.00 ,0.00 ,7.00 ,,01/01/2019,12/31/2021,,,,
+NH,OP_35_ADM,Rate of inpatient admissions for patients receiving outpatient chemotherapy,1.00 ,31.00 ,0.00 ,32.00 ,,01/01/2021,12/31/2021,,,,
+NH,OP_35_ED,Rate of emergency department (ED) visits for patients receiving outpatient chemotherapy,1.00 ,14.00 ,0.00 ,1.00 ,,01/01/2021,12/31/2021,,,,
+NH,OP_36,Ratio of unplanned hospital visits after hospital outpatient surgery,1.00 ,7.00 ,0.00 ,5.00 ,,01/01/2021,12/31/2021,,,,
+NH,READM_30_AMI,Acute Myocardial Infarction (AMI) 30-Day Readmission Rate,1.00 ,14.00 ,0.00 ,0.00 ,,07/01/2019,06/30/2022,,,,
+NH,READM_30_CABG,Rate of readmission for CABG,1.00 ,74.00 ,4.00 ,3.00 ,,07/01/2019,06/30/2022,,,,
+NH,READM_30_COPD,Rate of readmission for chronic obstructive pulmonary disease (COPD) patients,1.00 ,78.00 ,1.00 ,4.00 ,,07/01/2019,06/30/2022,,,,
+NH,READM_30_HF,Heart failure (HF) 30-Day Readmission Rate,1.00 ,170.00 ,0.00 ,167.00 ,,07/01/2019,06/30/2022,,,,
+NH,READM_30_HIP_KNEE,Rate of readmission after hip/knee replacement,1.00 ,39.00 ,0.00 ,43.00 ,,07/01/2019,06/30/2022,,,,
+NH,READM_30_HOSP_WIDE,Rate of readmission after discharge from hospital (hospital-wide),1.00 ,81.00 ,0.00 ,19.00 ,,07/01/2021,06/30/2022,,,,
+NH,READM_30_PN,Pneumonia (PN) 30-Day Readmission Rate,1.00 ,8.00 ,0.00 ,29.00 ,,07/01/2019,06/30/2022,,,,
+NE,EDAC_30_AMI,Hospital return days for heart attack patients,1.00 ,8.00 ,0.00 ,29.00 ,,07/01/2019,06/30/2022,,,,
+NE,EDAC_30_HF,Hospital return days for heart failure patients,1.00 ,48.00 ,4.00 ,8.00 ,,07/01/2019,06/30/2022,,,,
+NE,EDAC_30_PN,Hospital return days for pneumonia patients,1.00 ,20.00 ,0.00 ,18.00 ,,07/01/2019,06/30/2022,,,,
+NE,OP_32,"Rate of unplanned hospital visits after colonoscopy (per 1,000 colonoscopies)",1.00 ,54.00 ,3.00 ,1.00 ,,01/01/2019,12/31/2021,,,,
+NE,OP_35_ADM,Rate of inpatient admissions for patients receiving outpatient chemotherapy,1.00 ,9.00 ,0.00 ,0.00 ,,01/01/2021,12/31/2021,,,,
+NE,OP_35_ED,Rate of emergency department (ED) visits for patients receiving outpatient chemotherapy,1.00 ,10.00 ,0.00 ,0.00 ,,01/01/2021,12/31/2021,,,,
+NE,OP_36,Ratio of unplanned hospital visits after hospital outpatient surgery,1.00 ,1.00 ,0.00 ,34.00 ,,01/01/2021,12/31/2021,,,,
+NE,READM_30_AMI,Acute Myocardial Infarction (AMI) 30-Day Readmission Rate,1.00 ,7.00 ,0.00 ,36.00 ,,07/01/2019,06/30/2022,,,,
+NE,READM_30_CABG,Rate of readmission for CABG,1.00 ,5.00 ,0.00 ,42.00 ,,07/01/2019,06/30/2022,,,,
+NE,READM_30_COPD,Rate of readmission for chronic obstructive pulmonary disease (COPD) patients,1.00 ,83.00 ,3.00 ,49.00 ,,07/01/2019,06/30/2022,,,,
+NE,READM_30_HF,Heart failure (HF) 30-Day Readmission Rate,1.00 ,113.00 ,0.00 ,46.00 ,,07/01/2019,06/30/2022,,,,
+NE,READM_30_HIP_KNEE,Rate of readmission after hip/knee replacement,1.00 ,133.00 ,3.00 ,25.00 ,,07/01/2019,06/30/2022,,,,
+NE,READM_30_HOSP_WIDE,Rate of readmission after discharge from hospital (hospital-wide),1.00 ,138.00 ,0.00 ,23.00 ,,07/01/2021,06/30/2022,,,,
+NE,READM_30_PN,Pneumonia (PN) 30-Day Readmission Rate,1.00 ,31.00 ,1.00 ,19.00 ,,07/01/2019,06/30/2022,,,,
+ND,EDAC_30_AMI,Hospital return days for heart attack patients,1.00 ,105.00 ,5.00 ,9.00 ,,07/01/2019,06/30/2022,,,,
+ND,EDAC_30_HF,Hospital return days for heart failure patients,1.00 ,73.00 ,1.00 ,38.00 ,,07/01/2019,06/30/2022,,,,
+ND,EDAC_30_PN,Hospital return days for pneumonia patients,1.00 ,75.00 ,0.00 ,61.00 ,,07/01/2019,06/30/2022,,,,
+ND,OP_32,"Rate of unplanned hospital visits after colonoscopy (per 1,000 colonoscopies)",1.00 ,88.00 ,1.00 ,54.00 ,,01/01/2019,12/31/2021,,,,
+ND,OP_35_ADM,Rate of inpatient admissions for patients receiving outpatient chemotherapy,1.00 ,68.00 ,4.00 ,61.00 ,,01/01/2021,12/31/2021,,,,
+ND,OP_35_ED,Rate of emergency department (ED) visits for patients receiving outpatient chemotherapy,1.00 ,107.00 ,6.00 ,24.00 ,,01/01/2021,12/31/2021,,,,
+ND,OP_36,Ratio of unplanned hospital visits after hospital outpatient surgery,1.00 ,136.00 ,0.00 ,29.00 ,,01/01/2021,12/31/2021,,,,
+ND,READM_30_AMI,Acute Myocardial Infarction (AMI) 30-Day Readmission Rate,1.00 ,25.00 ,0.00 ,11.00 ,,07/01/2019,06/30/2022,,,,
+ND,READM_30_CABG,Rate of readmission for CABG,1.00 ,38.00 ,1.00 ,1.00 ,,07/01/2019,06/30/2022,,,,
+ND,READM_30_COPD,Rate of readmission for chronic obstructive pulmonary disease (COPD) patients,1.00 ,14.00 ,0.00 ,2.00 ,,07/01/2019,06/30/2022,,,,
+ND,READM_30_HF,Heart failure (HF) 30-Day Readmission Rate,1.00 ,61.00 ,0.00 ,3.00 ,,07/01/2019,06/30/2022,,,,
+ND,READM_30_HIP_KNEE,Rate of readmission after hip/knee replacement,1.00 ,15.00 ,0.00 ,8.00 ,,07/01/2019,06/30/2022,,,,
+ND,READM_30_HOSP_WIDE,Rate of readmission after discharge from hospital (hospital-wide),1.00 ,14.00 ,0.00 ,51.00 ,,07/01/2021,06/30/2022,,,,
+ND,READM_30_PN,Pneumonia (PN) 30-Day Readmission Rate,1.00 ,29.00 ,1.00 ,44.00 ,,07/01/2019,06/30/2022,,,,
+NC,EDAC_30_AMI,Hospital return days for heart attack patients,1.00 ,7.00 ,0.00 ,19.00 ,,07/01/2019,06/30/2022,,,,
+NC,EDAC_30_HF,Hospital return days for heart failure patients,1.00 ,8.00 ,0.00 ,32.00 ,,07/01/2019,06/30/2022,,,,
+NC,EDAC_30_PN,Hospital return days for pneumonia patients,1.00 ,37.00 ,1.00 ,6.00 ,,07/01/2019,06/30/2022,,,,
+NC,OP_32,"Rate of unplanned hospital visits after colonoscopy (per 1,000 colonoscopies)",1.00 ,47.00 ,1.00 ,36.00 ,,01/01/2019,12/31/2021,,,,
+NC,OP_35_ADM,Rate of inpatient admissions for patients receiving outpatient chemotherapy,1.00 ,17.00 ,0.00 ,26.00 ,,01/01/2021,12/31/2021,,,,
+NC,OP_35_ED,Rate of emergency department (ED) visits for patients receiving outpatient chemotherapy,1.00 ,34.00 ,1.00 ,16.00 ,,01/01/2021,12/31/2021,,,,
+NC,OP_36,Ratio of unplanned hospital visits after hospital outpatient surgery,1.00 ,22.00 ,0.00 ,33.00 ,,01/01/2021,12/31/2021,,,,
+NC,READM_30_AMI,Acute Myocardial Infarction (AMI) 30-Day Readmission Rate,1.00 ,51.00 ,0.00 ,34.00 ,,07/01/2019,06/30/2022,,,,
+NC,READM_30_CABG,Rate of readmission for CABG,1.00 ,68.00 ,0.00 ,22.00 ,,07/01/2019,06/30/2022,,,,
+NC,READM_30_COPD,Rate of readmission for chronic obstructive pulmonary disease (COPD) patients,1.00 ,45.00 ,0.00 ,59.00 ,,07/01/2019,06/30/2022,,,,
+NC,READM_30_HF,Heart failure (HF) 30-Day Readmission Rate,1.00 ,46.00 ,0.00 ,47.00 ,,07/01/2019,06/30/2022,,,,
+NC,READM_30_HIP_KNEE,Rate of readmission after hip/knee replacement,1.00 ,103.00 ,4.00 ,16.00 ,,07/01/2019,06/30/2022,,,,
+NC,READM_30_HOSP_WIDE,Rate of readmission after discharge from hospital (hospital-wide),1.00 ,69.00 ,0.00 ,43.00 ,,07/01/2021,06/30/2022,,,,
+NC,READM_30_PN,Pneumonia (PN) 30-Day Readmission Rate,1.00 ,102.00 ,0.00 ,23.00 ,,07/01/2019,06/30/2022,,,,
+MT,EDAC_30_AMI,Hospital return days for heart attack patients,1.00 ,29.00 ,3.00 ,1.00 ,,07/01/2019,06/30/2022,,,,
+MT,EDAC_30_HF,Hospital return days for heart failure patients,1.00 ,38.00 ,6.00 ,0.00 ,,07/01/2019,06/30/2022,,,,
+MT,EDAC_30_PN,Hospital return days for pneumonia patients,1.00 ,35.00 ,2.00 ,16.00 ,,07/01/2019,06/30/2022,,,,
+MT,OP_32,"Rate of unplanned hospital visits after colonoscopy (per 1,000 colonoscopies)",1.00 ,49.00 ,4.00 ,2.00 ,,01/01/2019,12/31/2021,,,,
+MT,OP_35_ADM,Rate of inpatient admissions for patients receiving outpatient chemotherapy,1.00 ,56.00 ,1.00 ,30.00 ,,01/01/2021,12/31/2021,,,,
+MT,OP_35_ED,Rate of emergency department (ED) visits for patients receiving outpatient chemotherapy,1.00 ,32.00 ,0.00 ,43.00 ,,01/01/2021,12/31/2021,,,,
+MT,OP_36,Ratio of unplanned hospital visits after hospital outpatient surgery,1.00 ,71.00 ,0.00 ,32.00 ,,01/01/2021,12/31/2021,,,,
+MT,READM_30_AMI,Acute Myocardial Infarction (AMI) 30-Day Readmission Rate,1.00 ,52.00 ,0.00 ,22.00 ,,07/01/2019,06/30/2022,,,,
+MT,READM_30_CABG,Rate of readmission for CABG,1.00 ,58.00 ,0.00 ,33.00 ,,07/01/2019,06/30/2022,,,,
+MT,READM_30_COPD,Rate of readmission for chronic obstructive pulmonary disease (COPD) patients,1.00 ,94.00 ,0.00 ,17.00 ,,07/01/2019,06/30/2022,,,,
+MT,READM_30_HF,Heart failure (HF) 30-Day Readmission Rate,1.00 ,67.00 ,2.00 ,71.00 ,,07/01/2019,06/30/2022,,,,
+MT,READM_30_HIP_KNEE,Rate of readmission after hip/knee replacement,1.00 ,87.00 ,1.00 ,47.00 ,,07/01/2019,06/30/2022,,,,
+MT,READM_30_HOSP_WIDE,Rate of readmission after discharge from hospital (hospital-wide),1.00 ,12.00 ,0.00 ,22.00 ,,07/01/2021,06/30/2022,,,,
+MT,READM_30_PN,Pneumonia (PN) 30-Day Readmission Rate,1.00 ,20.00 ,0.00 ,11.00 ,,07/01/2019,06/30/2022,,,,
+MS,EDAC_30_AMI,Hospital return days for heart attack patients,1.00 ,85.00 ,0.00 ,44.00 ,,07/01/2019,06/30/2022,,,,
+MS,EDAC_30_HF,Hospital return days for heart failure patients,1.00 ,139.00 ,0.00 ,29.00 ,,07/01/2019,06/30/2022,,,,
+MS,EDAC_30_PN,Hospital return days for pneumonia patients,1.00 ,47.00 ,0.00 ,91.00 ,,07/01/2019,06/30/2022,,,,
+MS,OP_32,"Rate of unplanned hospital visits after colonoscopy (per 1,000 colonoscopies)",1.00 ,44.00 ,3.00 ,91.00 ,,01/01/2019,12/31/2021,,,,
+MS,OP_35_ADM,Rate of inpatient admissions for patients receiving outpatient chemotherapy,1.00 ,133.00 ,0.00 ,44.00 ,,01/01/2021,12/31/2021,,,,
+MS,OP_35_ED,Rate of emergency department (ED) visits for patients receiving outpatient chemotherapy,1.00 ,65.00 ,0.00 ,13.00 ,,01/01/2021,12/31/2021,,,,
+MS,OP_36,Ratio of unplanned hospital visits after hospital outpatient surgery,1.00 ,5.00 ,0.00 ,0.00 ,,01/01/2021,12/31/2021,,,,
+MS,READM_30_AMI,Acute Myocardial Infarction (AMI) 30-Day Readmission Rate,1.00 ,4.00 ,0.00 ,1.00 ,,07/01/2019,06/30/2022,,,,
+MS,READM_30_CABG,Rate of readmission for CABG,1.00 ,6.00 ,0.00 ,0.00 ,,07/01/2019,06/30/2022,,,,
+MS,READM_30_COPD,Rate of readmission for chronic obstructive pulmonary disease (COPD) patients,1.00 ,18.00 ,0.00 ,6.00 ,,07/01/2019,06/30/2022,,,,
+MS,READM_30_HF,Heart failure (HF) 30-Day Readmission Rate,1.00 ,25.00 ,0.00 ,3.00 ,,07/01/2019,06/30/2022,,,,
+MS,READM_30_HIP_KNEE,Rate of readmission after hip/knee replacement,1.00 ,25.00 ,0.00 ,1.00 ,,07/01/2019,06/30/2022,,,,
+MS,READM_30_HOSP_WIDE,Rate of readmission after discharge from hospital (hospital-wide),1.00 ,35.00 ,0.00 ,31.00 ,,07/01/2021,06/30/2022,,,,
+MS,READM_30_PN,Pneumonia (PN) 30-Day Readmission Rate,1.00 ,203.00 ,0.00 ,114.00 ,,07/01/2019,06/30/2022,,,,
+MP,EDAC_30_AMI,Hospital return days for heart attack patients,1.00 ,60.00 ,0.00 ,18.00 ,5,07/01/2019,06/30/2022,,,,
+MP,EDAC_30_HF,Hospital return days for heart failure patients,1.00 ,61.00 ,0.00 ,13.00 ,5,07/01/2019,06/30/2022,,,,
+MP,EDAC_30_PN,Hospital return days for pneumonia patients,1.00 ,40.00 ,4.00 ,27.00 ,5,07/01/2019,06/30/2022,,,,
+MP,OP_32,"Rate of unplanned hospital visits after colonoscopy (per 1,000 colonoscopies)",1.00 ,83.00 ,0.00 ,5.00 ,5,01/01/2019,12/31/2021,,,,
+MP,OP_35_ADM,Rate of inpatient admissions for patients receiving outpatient chemotherapy,1.00 ,5.00 ,0.00 ,3.00 ,5,01/01/2021,12/31/2021,,,,
+MP,OP_35_ED,Rate of emergency department (ED) visits for patients receiving outpatient chemotherapy,0.00 ,17.00 ,0.00 ,3.00 ,5,01/01/2021,12/31/2021,,,,
+MP,OP_36,Ratio of unplanned hospital visits after hospital outpatient surgery,0.00 ,9.00 ,0.00 ,10.00 ,5,01/01/2021,12/31/2021,,,,
+MP,READM_30_AMI,Acute Myocardial Infarction (AMI) 30-Day Readmission Rate,0.00 ,13.00 ,0.00 ,8.00 ,5,07/01/2019,06/30/2022,,,,
+MP,READM_30_CABG,Rate of readmission for CABG,0.00 ,4.00 ,0.00 ,14.00 ,5,07/01/2019,06/30/2022,,,,
+MP,READM_30_COPD,Rate of readmission for chronic obstructive pulmonary disease (COPD) patients,0.00 ,1.00 ,0.00 ,1.00 ,5,07/01/2019,06/30/2022,,,,
+MP,READM_30_HF,Heart failure (HF) 30-Day Readmission Rate,0.00 ,10.00 ,0.00 ,18.00 ,5,07/01/2019,06/30/2022,,,,
+MP,READM_30_HIP_KNEE,Rate of readmission after hip/knee replacement,0.00 ,15.00 ,0.00 ,12.00 ,5,07/01/2019,06/30/2022,,,,
+MP,READM_30_HOSP_WIDE,Rate of readmission after discharge from hospital (hospital-wide),0.00 ,10.00 ,0.00 ,9.00 ,5,07/01/2021,06/30/2022,,,,
+MP,READM_30_PN,Pneumonia (PN) 30-Day Readmission Rate,0.00 ,27.00 ,1.00 ,0.00 ,5,07/01/2019,06/30/2022,,,,
+MO,EDAC_30_AMI,Hospital return days for heart attack patients,0.00 ,20.00 ,0.00 ,8.00 ,,07/01/2019,06/30/2022,,,,
+MO,EDAC_30_HF,Hospital return days for heart failure patients,0.00 ,26.00 ,0.00 ,12.00 ,,07/01/2019,06/30/2022,,,,
+MO,EDAC_30_PN,Hospital return days for pneumonia patients,0.00 ,14.00 ,0.00 ,18.00 ,,07/01/2019,06/30/2022,,,,
+MO,OP_32,"Rate of unplanned hospital visits after colonoscopy (per 1,000 colonoscopies)",0.00 ,22.00 ,1.00 ,9.00 ,,01/01/2019,12/31/2021,,,,
+MO,OP_35_ADM,Rate of inpatient admissions for patients receiving outpatient chemotherapy,0.00 ,14.00 ,0.00 ,35.00 ,,01/01/2021,12/31/2021,,,,
+MO,OP_35_ED,Rate of emergency department (ED) visits for patients receiving outpatient chemotherapy,0.00 ,34.00 ,0.00 ,18.00 ,,01/01/2021,12/31/2021,,,,
+MO,OP_36,Ratio of unplanned hospital visits after hospital outpatient surgery,0.00 ,18.00 ,0.00 ,16.00 ,,01/01/2021,12/31/2021,,,,
+MO,READM_30_AMI,Acute Myocardial Infarction (AMI) 30-Day Readmission Rate,0.00 ,39.00 ,0.00 ,13.00 ,,07/01/2019,06/30/2022,,,,
+MO,READM_30_CABG,Rate of readmission for CABG,0.00 ,89.00 ,0.00 ,15.00 ,,07/01/2019,06/30/2022,,,,
+MO,READM_30_COPD,Rate of readmission for chronic obstructive pulmonary disease (COPD) patients,0.00 ,56.00 ,0.00 ,58.00 ,,07/01/2019,06/30/2022,,,,
+MO,READM_30_HF,Heart failure (HF) 30-Day Readmission Rate,0.00 ,56.00 ,0.00 ,58.00 ,,07/01/2019,06/30/2022,,,,
+MO,READM_30_HIP_KNEE,Rate of readmission after hip/knee replacement,0.00 ,39.00 ,0.00 ,69.00 ,,07/01/2019,06/30/2022,,,,
+MO,READM_30_HOSP_WIDE,Rate of readmission after discharge from hospital (hospital-wide),0.00 ,20.00 ,0.00 ,8.00 ,,07/01/2021,06/30/2022,,,,
+MO,READM_30_PN,Pneumonia (PN) 30-Day Readmission Rate,0.00 ,54.00 ,0.00 ,49.00 ,,07/01/2019,06/30/2022,,,,
+MN,EDAC_30_AMI,Hospital return days for heart attack patients,0.00 ,92.00 ,0.00 ,33.00 ,,07/01/2019,06/30/2022,,,,
+MN,EDAC_30_HF,Hospital return days for heart failure patients,0.00 ,32.00 ,0.00 ,32.00 ,,07/01/2019,06/30/2022,,,,
+MN,EDAC_30_PN,Hospital return days for pneumonia patients,0.00 ,34.00 ,0.00 ,40.00 ,,07/01/2019,06/30/2022,,,,
+MN,OP_32,"Rate of unplanned hospital visits after colonoscopy (per 1,000 colonoscopies)",0.00 ,47.00 ,0.00 ,40.00 ,,01/01/2019,12/31/2021,,,,
+MN,OP_35_ADM,Rate of inpatient admissions for patients receiving outpatient chemotherapy,0.00 ,55.00 ,2.00 ,29.00 ,,01/01/2021,12/31/2021,,,,
+MN,OP_35_ED,Rate of emergency department (ED) visits for patients receiving outpatient chemotherapy,0.00 ,41.00 ,0.00 ,21.00 ,,01/01/2021,12/31/2021,,,,
+MN,OP_36,Ratio of unplanned hospital visits after hospital outpatient surgery,0.00 ,63.00 ,17.00 ,8.00 ,,01/01/2021,12/31/2021,,,,
+MN,READM_30_AMI,Acute Myocardial Infarction (AMI) 30-Day Readmission Rate,0.00 ,64.00 ,0.00 ,26.00 ,,07/01/2019,06/30/2022,,,,
+MN,READM_30_CABG,Rate of readmission for CABG,0.00 ,9.00 ,0.00 ,2.00 ,,07/01/2019,06/30/2022,,,,
+MN,READM_30_COPD,Rate of readmission for chronic obstructive pulmonary disease (COPD) patients,0.00 ,8.00 ,0.00 ,5.00 ,,07/01/2019,06/30/2022,,,,
+MN,READM_30_HF,Heart failure (HF) 30-Day Readmission Rate,0.00 ,8.00 ,0.00 ,4.00 ,,07/01/2019,06/30/2022,,,,
+MN,READM_30_HIP_KNEE,Rate of readmission after hip/knee replacement,0.00 ,4.00 ,0.00 ,11.00 ,,07/01/2019,06/30/2022,,,,
+MN,READM_30_HOSP_WIDE,Rate of readmission after discharge from hospital (hospital-wide),0.00 ,1.00 ,0.00 ,0.00 ,,07/01/2021,06/30/2022,,,,
+MN,READM_30_PN,Pneumonia (PN) 30-Day Readmission Rate,0.00 ,13.00 ,0.00 ,2.00 ,,07/01/2019,06/30/2022,,,,
+MI,EDAC_30_AMI,Hospital return days for heart attack patients,0.00 ,14.00 ,0.00 ,1.00 ,,07/01/2019,06/30/2022,,,,
+MI,EDAC_30_HF,Hospital return days for heart failure patients,0.00 ,12.00 ,0.00 ,1.00 ,,07/01/2019,06/30/2022,,,,
+MI,EDAC_30_PN,Hospital return days for pneumonia patients,0.00 ,14.00 ,0.00 ,1.00 ,,07/01/2019,06/30/2022,,,,
+MI,OP_32,"Rate of unplanned hospital visits after colonoscopy (per 1,000 colonoscopies)",0.00 ,72.00 ,2.00 ,1.00 ,,01/01/2019,12/31/2021,,,,
+MI,OP_35_ADM,Rate of inpatient admissions for patients receiving outpatient chemotherapy,0.00 ,33.00 ,2.00 ,32.00 ,,01/01/2021,12/31/2021,,,,
+MI,OP_35_ED,Rate of emergency department (ED) visits for patients receiving outpatient chemotherapy,0.00 ,63.00 ,2.00 ,7.00 ,,01/01/2021,12/31/2021,,,,
+MI,OP_36,Ratio of unplanned hospital visits after hospital outpatient surgery,0.00 ,45.00 ,0.00 ,34.00 ,,01/01/2021,12/31/2021,,,,
+MI,READM_30_AMI,Acute Myocardial Infarction (AMI) 30-Day Readmission Rate,0.00 ,18.00 ,0.00 ,5.00 ,,07/01/2019,06/30/2022,,,,
+MI,READM_30_CABG,Rate of readmission for CABG,0.00 ,71.00 ,0.00 ,11.00 ,,07/01/2019,06/30/2022,,,,
+MI,READM_30_COPD,Rate of readmission for chronic obstructive pulmonary disease (COPD) patients,0.00 ,49.00 ,1.00 ,20.00 ,,07/01/2019,06/30/2022,,,,
+MI,READM_30_HF,Heart failure (HF) 30-Day Readmission Rate,0.00 ,35.00 ,0.00 ,5.00 ,,07/01/2019,06/30/2022,,,,
+MI,READM_30_HIP_KNEE,Rate of readmission after hip/knee replacement,0.00 ,6.00 ,1.00 ,25.00 ,,07/01/2019,06/30/2022,,,,
+MI,READM_30_HOSP_WIDE,Rate of readmission after discharge from hospital (hospital-wide),0.00 ,7.00 ,0.00 ,25.00 ,,07/01/2021,06/30/2022,,,,
+MI,READM_30_PN,Pneumonia (PN) 30-Day Readmission Rate,0.00 ,33.00 ,1.00 ,9.00 ,,07/01/2019,06/30/2022,,,,
+ME,EDAC_30_AMI,Hospital return days for heart attack patients,0.00 ,12.00 ,1.00 ,18.00 ,,07/01/2019,06/30/2022,,,,
+ME,EDAC_30_HF,Hospital return days for heart failure patients,0.00 ,7.00 ,0.00 ,2.00 ,,07/01/2019,06/30/2022,,,,
+ME,EDAC_30_PN,Hospital return days for pneumonia patients,0.00 ,7.00 ,0.00 ,36.00 ,,07/01/2019,06/30/2022,,,,
+ME,OP_32,"Rate of unplanned hospital visits after colonoscopy (per 1,000 colonoscopies)",0.00 ,24.00 ,2.00 ,19.00 ,,01/01/2019,12/31/2021,,,,
+ME,OP_35_ADM,Rate of inpatient admissions for patients receiving outpatient chemotherapy,0.00 ,26.00 ,0.00 ,11.00 ,,01/01/2021,12/31/2021,,,,
+ME,OP_35_ED,Rate of emergency department (ED) visits for patients receiving outpatient chemotherapy,0.00 ,39.00 ,6.00 ,2.00 ,,01/01/2021,12/31/2021,,,,
+ME,OP_36,Ratio of unplanned hospital visits after hospital outpatient surgery,0.00 ,32.00 ,0.00 ,13.00 ,,01/01/2021,12/31/2021,,,,
+ME,READM_30_AMI,Acute Myocardial Infarction (AMI) 30-Day Readmission Rate,0.00 ,250.00 ,1.00 ,40.00 ,,07/01/2019,06/30/2022,,,,
+ME,READM_30_CABG,Rate of readmission for CABG,0.00 ,57.00 ,1.00 ,142.00 ,,07/01/2019,06/30/2022,,,,
+ME,READM_30_COPD,Rate of readmission for chronic obstructive pulmonary disease (COPD) patients,0.00 ,81.00 ,0.00 ,30.00 ,,07/01/2019,06/30/2022,,,,
+ME,READM_30_HF,Heart failure (HF) 30-Day Readmission Rate,0.00 ,143.00 ,3.00 ,108.00 ,,07/01/2019,06/30/2022,,,,
+ME,READM_30_HIP_KNEE,Rate of readmission after hip/knee replacement,0.00 ,75.00 ,0.00 ,5.00 ,,07/01/2019,06/30/2022,,,,
+ME,READM_30_HOSP_WIDE,Rate of readmission after discharge from hospital (hospital-wide),0.00 ,23.00 ,0.00 ,37.00 ,,07/01/2021,06/30/2022,,,,
+ME,READM_30_PN,Pneumonia (PN) 30-Day Readmission Rate,0.00 ,61.00 ,3.00 ,13.00 ,,07/01/2019,06/30/2022,,,,
+MD,EDAC_30_AMI,Hospital return days for heart attack patients,0.00 ,19.00 ,0.00 ,6.00 ,,07/01/2019,06/30/2022,,,,
+MD,EDAC_30_HF,Hospital return days for heart failure patients,0.00 ,66.00 ,0.00 ,34.00 ,,07/01/2019,06/30/2022,,,,
+MD,EDAC_30_PN,Hospital return days for pneumonia patients,0.00 ,40.00 ,1.00 ,22.00 ,,07/01/2019,06/30/2022,,,,
+MD,OP_32,"Rate of unplanned hospital visits after colonoscopy (per 1,000 colonoscopies)",0.00 ,28.00 ,0.00 ,11.00 ,,01/01/2019,12/31/2021,,,,
+MD,OP_35_ADM,Rate of inpatient admissions for patients receiving outpatient chemotherapy,0.00 ,15.00 ,1.00 ,11.00 ,,01/01/2021,12/31/2021,,,,
+MD,OP_35_ED,Rate of emergency department (ED) visits for patients receiving outpatient chemotherapy,0.00 ,6.00 ,0.00 ,33.00 ,,01/01/2021,12/31/2021,,,,
+MD,OP_36,Ratio of unplanned hospital visits after hospital outpatient surgery,0.00 ,3.00 ,0.00 ,0.00 ,,01/01/2021,12/31/2021,,,,
+MD,READM_30_AMI,Acute Myocardial Infarction (AMI) 30-Day Readmission Rate,0.00 ,10.00 ,0.00 ,46.00 ,,07/01/2019,06/30/2022,,,,
+MD,READM_30_CABG,Rate of readmission for CABG,0.00 ,15.00 ,2.00 ,39.00 ,,07/01/2019,06/30/2022,,,,
+MD,READM_30_COPD,Rate of readmission for chronic obstructive pulmonary disease (COPD) patients,0.00 ,14.00 ,0.00 ,4.00 ,,07/01/2019,06/30/2022,,,,
+MD,READM_30_HF,Heart failure (HF) 30-Day Readmission Rate,0.00 ,23.00 ,0.00 ,34.00 ,,07/01/2019,06/30/2022,,,,
+MD,READM_30_HIP_KNEE,Rate of readmission after hip/knee replacement,0.00 ,51.00 ,0.00 ,4.00 ,,07/01/2019,06/30/2022,,,,
+MD,READM_30_HOSP_WIDE,Rate of readmission after discharge from hospital (hospital-wide),0.00 ,20.00 ,1.00 ,18.00 ,,07/01/2021,06/30/2022,,,,
+MD,READM_30_PN,Pneumonia (PN) 30-Day Readmission Rate,0.00 ,43.00 ,4.00 ,8.00 ,,07/01/2019,06/30/2022,,,,
+MA,EDAC_30_AMI,Hospital return days for heart attack patients,0.00 ,25.00 ,0.00 ,30.00 ,,07/01/2019,06/30/2022,,,,
+MA,EDAC_30_HF,Hospital return days for heart failure patients,0.00 ,16.00 ,0.00 ,1.00 ,,07/01/2019,06/30/2022,,,,
+MA,EDAC_30_PN,Hospital return days for pneumonia patients,0.00 ,48.00 ,0.00 ,9.00 ,,07/01/2019,06/30/2022,,,,
+MA,OP_32,"Rate of unplanned hospital visits after colonoscopy (per 1,000 colonoscopies)",0.00 ,50.00 ,0.00 ,8.00 ,,01/01/2019,12/31/2021,,,,
+MA,OP_35_ADM,Rate of inpatient admissions for patients receiving outpatient chemotherapy,0.00 ,32.00 ,0.00 ,19.00 ,,01/01/2021,12/31/2021,,,,
+MA,OP_35_ED,Rate of emergency department (ED) visits for patients receiving outpatient chemotherapy,0.00 ,54.00 ,0.00 ,6.00 ,,01/01/2021,12/31/2021,,,,
+MA,OP_36,Ratio of unplanned hospital visits after hospital outpatient surgery,0.00 ,10.00 ,0.00 ,0.00 ,,01/01/2021,12/31/2021,,,,
+MA,READM_30_AMI,Acute Myocardial Infarction (AMI) 30-Day Readmission Rate,0.00 ,7.00 ,1.00 ,2.00 ,,07/01/2019,06/30/2022,,,,
+MA,READM_30_CABG,Rate of readmission for CABG,0.00 ,7.00 ,1.00 ,2.00 ,,07/01/2019,06/30/2022,,,,
+MA,READM_30_COPD,Rate of readmission for chronic obstructive pulmonary disease (COPD) patients,0.00 ,10.00 ,0.00 ,0.00 ,,07/01/2019,06/30/2022,,,,
+MA,READM_30_HF,Heart failure (HF) 30-Day Readmission Rate,0.00 ,4.00 ,0.00 ,6.00 ,,07/01/2019,06/30/2022,,,,
+MA,READM_30_HIP_KNEE,Rate of readmission after hip/knee replacement,0.00 ,1.00 ,0.00 ,0.00 ,,07/01/2019,06/30/2022,,,,
+MA,READM_30_HOSP_WIDE,Rate of readmission after discharge from hospital (hospital-wide),0.00 ,10.00 ,0.00 ,0.00 ,,07/01/2021,06/30/2022,,,,
+MA,READM_30_PN,Pneumonia (PN) 30-Day Readmission Rate,0.00 ,6.00 ,0.00 ,3.00 ,,07/01/2019,06/30/2022,,,,
+LA,EDAC_30_AMI,Hospital return days for heart attack patients,0.00 ,10.00 ,0.00 ,0.00 ,,07/01/2019,06/30/2022,,,,
+LA,EDAC_30_HF,Hospital return days for heart failure patients,0.00 ,8.00 ,0.00 ,25.00 ,,07/01/2019,06/30/2022,,,,
+LA,EDAC_30_PN,Hospital return days for pneumonia patients,0.00 ,1.00 ,0.00 ,14.00 ,,07/01/2019,06/30/2022,,,,
+LA,OP_32,"Rate of unplanned hospital visits after colonoscopy (per 1,000 colonoscopies)",0.00 ,1.00 ,0.00 ,14.00 ,,01/01/2019,12/31/2021,,,,
+LA,OP_35_ADM,Rate of inpatient admissions for patients receiving outpatient chemotherapy,0.00 ,4.00 ,0.00 ,34.00 ,,01/01/2021,12/31/2021,,,,
+LA,OP_35_ED,Rate of emergency department (ED) visits for patients receiving outpatient chemotherapy,0.00 ,7.00 ,0.00 ,35.00 ,,01/01/2021,12/31/2021,,,,
+LA,OP_36,Ratio of unplanned hospital visits after hospital outpatient surgery,0.00 ,0.00 ,0.00 ,7.00 ,,01/01/2021,12/31/2021,,,,
+LA,READM_30_AMI,Acute Myocardial Infarction (AMI) 30-Day Readmission Rate,0.00 ,6.00 ,0.00 ,26.00 ,,07/01/2019,06/30/2022,,,,
+LA,READM_30_CABG,Rate of readmission for CABG,0.00 ,132.00 ,0.00 ,8.00 ,,07/01/2019,06/30/2022,,,,
+LA,READM_30_COPD,Rate of readmission for chronic obstructive pulmonary disease (COPD) patients,0.00 ,85.00 ,0.00 ,60.00 ,,07/01/2019,06/30/2022,,,,
+LA,READM_30_HF,Heart failure (HF) 30-Day Readmission Rate,0.00 ,44.00 ,0.00 ,10.00 ,,07/01/2019,06/30/2022,,,,
+LA,READM_30_HIP_KNEE,Rate of readmission after hip/knee replacement,0.00 ,103.00 ,1.00 ,40.00 ,,07/01/2019,06/30/2022,,,,
+LA,READM_30_HOSP_WIDE,Rate of readmission after discharge from hospital (hospital-wide),0.00 ,44.00 ,0.00 ,6.00 ,,07/01/2021,06/30/2022,,,,
+LA,READM_30_PN,Pneumonia (PN) 30-Day Readmission Rate,0.00 ,24.00 ,0.00 ,25.00 ,,07/01/2019,06/30/2022,,,,
+KY,EDAC_30_AMI,Hospital return days for heart attack patients,0.00 ,22.00 ,0.00 ,30.00 ,,07/01/2019,06/30/2022,,,,
+KY,EDAC_30_HF,Hospital return days for heart failure patients,0.00 ,10.00 ,0.00 ,1.00 ,,07/01/2019,06/30/2022,,,,
+KY,EDAC_30_PN,Hospital return days for pneumonia patients,0.00 ,30.00 ,0.00 ,30.00 ,,07/01/2019,06/30/2022,,,,
+KY,OP_32,"Rate of unplanned hospital visits after colonoscopy (per 1,000 colonoscopies)",0.00 ,42.00 ,3.00 ,15.00 ,,01/01/2019,12/31/2021,,,,
+KY,OP_35_ADM,Rate of inpatient admissions for patients receiving outpatient chemotherapy,0.00 ,29.00 ,0.00 ,17.00 ,,01/01/2021,12/31/2021,,,,
+KY,OP_35_ED,Rate of emergency department (ED) visits for patients receiving outpatient chemotherapy,0.00 ,54.00 ,4.00 ,2.00 ,,01/01/2021,12/31/2021,,,,
+KY,OP_36,Ratio of unplanned hospital visits after hospital outpatient surgery,0.00 ,45.00 ,0.00 ,14.00 ,,01/01/2021,12/31/2021,,,,
+KY,READM_30_AMI,Acute Myocardial Infarction (AMI) 30-Day Readmission Rate,0.00 ,68.00 ,0.00 ,10.00 ,,07/01/2019,06/30/2022,,,,
+KY,READM_30_CABG,Rate of readmission for CABG,0.00 ,22.00 ,0.00 ,41.00 ,,07/01/2019,06/30/2022,,,,
+KY,READM_30_COPD,Rate of readmission for chronic obstructive pulmonary disease (COPD) patients,0.00 ,25.00 ,0.00 ,35.00 ,,07/01/2019,06/30/2022,,,,
+KY,READM_30_HF,Heart failure (HF) 30-Day Readmission Rate,0.00 ,11.00 ,0.00 ,4.00 ,,07/01/2019,06/30/2022,,,,
+KY,READM_30_HIP_KNEE,Rate of readmission after hip/knee replacement,0.00 ,49.00 ,0.00 ,62.00 ,,07/01/2019,06/30/2022,,,,
+KY,READM_30_HOSP_WIDE,Rate of readmission after discharge from hospital (hospital-wide),0.00 ,58.00 ,0.00 ,51.00 ,,07/01/2021,06/30/2022,,,,
+KY,READM_30_PN,Pneumonia (PN) 30-Day Readmission Rate,0.00 ,37.00 ,2.00 ,20.00 ,,07/01/2019,06/30/2022,,,,
+KS,EDAC_30_AMI,Hospital return days for heart attack patients,0.00 ,139.00 ,0.00 ,7.00 ,,07/01/2019,06/30/2022,,,,
+KS,EDAC_30_HF,Hospital return days for heart failure patients,0.00 ,74.00 ,1.00 ,63.00 ,,07/01/2019,06/30/2022,,,,
+KS,EDAC_30_PN,Hospital return days for pneumonia patients,0.00 ,44.00 ,0.00 ,7.00 ,,07/01/2019,06/30/2022,,,,
+KS,OP_32,"Rate of unplanned hospital visits after colonoscopy (per 1,000 colonoscopies)",0.00 ,116.00 ,0.00 ,36.00 ,,01/01/2019,12/31/2021,,,,
+KS,OP_35_ADM,Rate of inpatient admissions for patients receiving outpatient chemotherapy,0.00 ,139.00 ,0.00 ,13.00 ,,01/01/2021,12/31/2021,,,,
+KS,OP_35_ED,Rate of emergency department (ED) visits for patients receiving outpatient chemotherapy,0.00 ,132.00 ,2.00 ,5.00 ,,01/01/2021,12/31/2021,,,,
+KS,OP_36,Ratio of unplanned hospital visits after hospital outpatient surgery,0.00 ,74.00 ,0.00 ,80.00 ,,01/01/2021,12/31/2021,,,,
+KS,READM_30_AMI,Acute Myocardial Infarction (AMI) 30-Day Readmission Rate,0.00 ,28.00 ,0.00 ,7.00 ,,07/01/2019,06/30/2022,,,,
+KS,READM_30_CABG,Rate of readmission for CABG,0.00 ,89.00 ,1.00 ,47.00 ,,07/01/2019,06/30/2022,,,,
+KS,READM_30_COPD,Rate of readmission for chronic obstructive pulmonary disease (COPD) patients,0.00 ,22.00 ,0.00 ,3.00 ,,07/01/2019,06/30/2022,,,,
+KS,READM_30_HF,Heart failure (HF) 30-Day Readmission Rate,0.00 ,7.00 ,0.00 ,19.00 ,,07/01/2019,06/30/2022,,,,
+KS,READM_30_HIP_KNEE,Rate of readmission after hip/knee replacement,0.00 ,7.00 ,0.00 ,19.00 ,,07/01/2019,06/30/2022,,,,
+KS,READM_30_HOSP_WIDE,Rate of readmission after discharge from hospital (hospital-wide),0.00 ,19.00 ,0.00 ,10.00 ,,07/01/2021,06/30/2022,,,,
+KS,READM_30_PN,Pneumonia (PN) 30-Day Readmission Rate,0.00 ,12.00 ,0.00 ,0.00 ,,07/01/2019,06/30/2022,,,,
+IN,EDAC_30_AMI,Hospital return days for heart attack patients,0.00 ,27.00 ,0.00 ,9.00 ,,07/01/2019,06/30/2022,,,,
+IN,EDAC_30_HF,Hospital return days for heart failure patients,0.00 ,25.00 ,1.00 ,10.00 ,,07/01/2019,06/30/2022,,,,
+IN,EDAC_30_PN,Hospital return days for pneumonia patients,0.00 ,20.00 ,0.00 ,7.00 ,,07/01/2019,06/30/2022,,,,
+IN,OP_32,"Rate of unplanned hospital visits after colonoscopy (per 1,000 colonoscopies)",0.00 ,27.00 ,0.00 ,3.00 ,,01/01/2019,12/31/2021,,,,
+IN,OP_35_ADM,Rate of inpatient admissions for patients receiving outpatient chemotherapy,0.00 ,10.00 ,0.00 ,20.00 ,,01/01/2021,12/31/2021,,,,
+IN,OP_35_ED,Rate of emergency department (ED) visits for patients receiving outpatient chemotherapy,0.00 ,10.00 ,0.00 ,20.00 ,,01/01/2021,12/31/2021,,,,
+IN,OP_36,Ratio of unplanned hospital visits after hospital outpatient surgery,0.00 ,23.00 ,0.00 ,5.00 ,,01/01/2021,12/31/2021,,,,
+IN,READM_30_AMI,Acute Myocardial Infarction (AMI) 30-Day Readmission Rate,0.00 ,11.00 ,0.00 ,17.00 ,,07/01/2019,06/30/2022,,,,
+IN,READM_30_CABG,Rate of readmission for CABG,0.00 ,3.00 ,0.00 ,2.00 ,,07/01/2019,06/30/2022,,,,
+IN,READM_30_COPD,Rate of readmission for chronic obstructive pulmonary disease (COPD) patients,0.00 ,13.00 ,0.00 ,27.00 ,,07/01/2019,06/30/2022,,,,
+IN,READM_30_HF,Heart failure (HF) 30-Day Readmission Rate,0.00 ,25.00 ,1.00 ,15.00 ,,07/01/2019,06/30/2022,,,,
+IN,READM_30_HIP_KNEE,Rate of readmission after hip/knee replacement,0.00 ,14.00 ,0.00 ,14.00 ,,07/01/2019,06/30/2022,,,,
+IN,READM_30_HOSP_WIDE,Rate of readmission after discharge from hospital (hospital-wide),0.00 ,34.00 ,0.00 ,8.00 ,,07/01/2021,06/30/2022,,,,
+IN,READM_30_PN,Pneumonia (PN) 30-Day Readmission Rate,0.00 ,61.00 ,0.00 ,1.00 ,,07/01/2019,06/30/2022,,,,
+IL,EDAC_30_AMI,Hospital return days for heart attack patients,0.00 ,39.00 ,2.00 ,16.00 ,,07/01/2019,06/30/2022,,,,
+IL,EDAC_30_HF,Hospital return days for heart failure patients,0.00 ,54.00 ,4.00 ,5.00 ,,07/01/2019,06/30/2022,,,,
+IL,EDAC_30_PN,Hospital return days for pneumonia patients,0.00 ,47.00 ,1.00 ,17.00 ,,07/01/2019,06/30/2022,,,,
+IL,OP_32,"Rate of unplanned hospital visits after colonoscopy (per 1,000 colonoscopies)",0.00 ,40.00 ,1.00 ,20.00 ,,01/01/2019,12/31/2021,,,,
+IL,OP_35_ADM,Rate of inpatient admissions for patients receiving outpatient chemotherapy,0.00 ,17.00 ,0.00 ,3.00 ,,01/01/2021,12/31/2021,,,,
+IL,OP_35_ED,Rate of emergency department (ED) visits for patients receiving outpatient chemotherapy,0.00 ,16.00 ,0.00 ,8.00 ,,01/01/2021,12/31/2021,,,,
+IL,OP_36,Ratio of unplanned hospital visits after hospital outpatient surgery,0.00 ,11.00 ,0.00 ,13.00 ,,01/01/2021,12/31/2021,,,,
+IL,READM_30_AMI,Acute Myocardial Infarction (AMI) 30-Day Readmission Rate,0.00 ,4.00 ,0.00 ,0.00 ,,07/01/2019,06/30/2022,,,,
+IL,READM_30_CABG,Rate of readmission for CABG,0.00 ,20.00 ,0.00 ,6.00 ,,07/01/2019,06/30/2022,,,,
+IL,READM_30_COPD,Rate of readmission for chronic obstructive pulmonary disease (COPD) patients,0.00 ,23.00 ,0.00 ,3.00 ,,07/01/2019,06/30/2022,,,,
+IL,READM_30_HF,Heart failure (HF) 30-Day Readmission Rate,0.00 ,16.00 ,0.00 ,8.00 ,,07/01/2019,06/30/2022,,,,
+IL,READM_30_HIP_KNEE,Rate of readmission after hip/knee replacement,0.00 ,26.00 ,0.00 ,0.00 ,,07/01/2019,06/30/2022,,,,
+IL,READM_30_HOSP_WIDE,Rate of readmission after discharge from hospital (hospital-wide),0.00 ,25.00 ,0.00 ,1.00 ,,07/01/2021,06/30/2022,,,,
+IL,READM_30_PN,Pneumonia (PN) 30-Day Readmission Rate,0.00 ,59.00 ,0.00 ,17.00 ,,07/01/2019,06/30/2022,,,,
+ID,EDAC_30_AMI,Hospital return days for heart attack patients,0.00 ,15.00 ,0.00 ,51.00 ,,07/01/2019,06/30/2022,,,,
+ID,EDAC_30_HF,Hospital return days for heart failure patients,0.00 ,16.00 ,0.00 ,38.00 ,,07/01/2019,06/30/2022,,,,
+ID,EDAC_30_PN,Hospital return days for pneumonia patients,0.00 ,8.00 ,0.00 ,0.00 ,,07/01/2019,06/30/2022,,,,
+ID,OP_32,"Rate of unplanned hospital visits after colonoscopy (per 1,000 colonoscopies)",0.00 ,23.00 ,0.00 ,59.00 ,,01/01/2019,12/31/2021,,,,
+ID,OP_35_ADM,Rate of inpatient admissions for patients receiving outpatient chemotherapy,0.00 ,31.00 ,1.00 ,52.00 ,,01/01/2021,12/31/2021,,,,
+ID,OP_35_ED,Rate of emergency department (ED) visits for patients receiving outpatient chemotherapy,0.00 ,29.00 ,0.00 ,29.00 ,,01/01/2021,12/31/2021,,,,
+ID,OP_36,Ratio of unplanned hospital visits after hospital outpatient surgery,0.00 ,79.00 ,2.00 ,7.00 ,,01/01/2021,12/31/2021,,,,
+ID,READM_30_AMI,Acute Myocardial Infarction (AMI) 30-Day Readmission Rate,0.00 ,51.00 ,0.00 ,34.00 ,,07/01/2019,06/30/2022,,,,
+ID,READM_30_CABG,Rate of readmission for CABG,0.00 ,17.00 ,0.00 ,6.00 ,,07/01/2019,06/30/2022,,,,
+ID,READM_30_COPD,Rate of readmission for chronic obstructive pulmonary disease (COPD) patients,0.00 ,8.00 ,0.00 ,19.00 ,,07/01/2019,06/30/2022,,,,
+ID,READM_30_HF,Heart failure (HF) 30-Day Readmission Rate,0.00 ,8.00 ,0.00 ,10.00 ,,07/01/2019,06/30/2022,,,,
+ID,READM_30_HIP_KNEE,Rate of readmission after hip/knee replacement,0.00 ,6.00 ,0.00 ,17.00 ,,07/01/2019,06/30/2022,,,,
+ID,READM_30_HOSP_WIDE,Rate of readmission after discharge from hospital (hospital-wide),0.00 ,6.00 ,0.00 ,0.00 ,,07/01/2021,06/30/2022,,,,
+ID,READM_30_PN,Pneumonia (PN) 30-Day Readmission Rate,0.00 ,12.00 ,1.00 ,30.00 ,,07/01/2019,06/30/2022,,,,
+IA,EDAC_30_AMI,Hospital return days for heart attack patients,0.00 ,8.00 ,0.00 ,3.00 ,,07/01/2019,06/30/2022,,,,
+IA,EDAC_30_HF,Hospital return days for heart failure patients,0.00 ,24.00 ,0.00 ,20.00 ,,07/01/2019,06/30/2022,,,,
+IA,EDAC_30_PN,Hospital return days for pneumonia patients,0.00 ,89.00 ,0.00 ,7.00 ,,07/01/2019,06/30/2022,,,,
+IA,OP_32,"Rate of unplanned hospital visits after colonoscopy (per 1,000 colonoscopies)",0.00 ,49.00 ,0.00 ,36.00 ,,01/01/2019,12/31/2021,,,,
+IA,OP_35_ADM,Rate of inpatient admissions for patients receiving outpatient chemotherapy,0.00 ,80.00 ,5.00 ,11.00 ,,01/01/2021,12/31/2021,,,,
+IA,OP_35_ED,Rate of emergency department (ED) visits for patients receiving outpatient chemotherapy,0.00 ,47.00 ,1.00 ,49.00 ,,01/01/2021,12/31/2021,,,,
+IA,OP_36,Ratio of unplanned hospital visits after hospital outpatient surgery,0.00 ,21.00 ,0.00 ,1.00 ,,01/01/2021,12/31/2021,,,,
+IA,READM_30_AMI,Acute Myocardial Infarction (AMI) 30-Day Readmission Rate,0.00 ,85.00 ,0.00 ,20.00 ,,07/01/2019,06/30/2022,,,,
+IA,READM_30_CABG,Rate of readmission for CABG,0.00 ,62.00 ,0.00 ,26.00 ,,07/01/2019,06/30/2022,,,,
+IA,READM_30_COPD,Rate of readmission for chronic obstructive pulmonary disease (COPD) patients,0.00 ,97.00 ,0.00 ,9.00 ,,07/01/2019,06/30/2022,,,,
+IA,READM_30_HF,Heart failure (HF) 30-Day Readmission Rate,0.00 ,17.00 ,0.00 ,7.00 ,,07/01/2019,06/30/2022,,,,
+IA,READM_30_HIP_KNEE,Rate of readmission after hip/knee replacement,0.00 ,17.00 ,0.00 ,19.00 ,,07/01/2019,06/30/2022,,,,
+IA,READM_30_HOSP_WIDE,Rate of readmission after discharge from hospital (hospital-wide),0.00 ,17.00 ,0.00 ,19.00 ,,07/01/2021,06/30/2022,,,,
+IA,READM_30_PN,Pneumonia (PN) 30-Day Readmission Rate,0.00 ,13.00 ,1.00 ,11.00 ,,07/01/2019,06/30/2022,,,,
+HI,EDAC_30_AMI,Hospital return days for heart attack patients,0.00 ,10.00 ,0.00 ,18.00 ,,07/01/2019,06/30/2022,,,,
+HI,EDAC_30_HF,Hospital return days for heart failure patients,0.00 ,5.00 ,0.00 ,1.00 ,,07/01/2019,06/30/2022,,,,
+HI,EDAC_30_PN,Hospital return days for pneumonia patients,0.00 ,14.00 ,0.00 ,43.00 ,,07/01/2019,06/30/2022,,,,
+HI,OP_32,"Rate of unplanned hospital visits after colonoscopy (per 1,000 colonoscopies)",0.00 ,20.00 ,0.00 ,32.00 ,,01/01/2019,12/31/2021,,,,
+HI,OP_35_ADM,Rate of inpatient admissions for patients receiving outpatient chemotherapy,0.00 ,20.00 ,0.00 ,7.00 ,,01/01/2021,12/31/2021,,,,
+HI,OP_35_ED,Rate of emergency department (ED) visits for patients receiving outpatient chemotherapy,0.00 ,40.00 ,4.00 ,17.00 ,,01/01/2021,12/31/2021,,,,
+HI,OP_36,Ratio of unplanned hospital visits after hospital outpatient surgery,0.00 ,24.00 ,0.00 ,37.00 ,,01/01/2021,12/31/2021,,,,
+HI,READM_30_AMI,Acute Myocardial Infarction (AMI) 30-Day Readmission Rate,0.00 ,47.00 ,0.00 ,12.00 ,,07/01/2019,06/30/2022,,,,
+HI,READM_30_CABG,Rate of readmission for CABG,0.00 ,14.00 ,0.00 ,3.00 ,,07/01/2019,06/30/2022,,,,
+HI,READM_30_COPD,Rate of readmission for chronic obstructive pulmonary disease (COPD) patients,0.00 ,41.00 ,0.00 ,47.00 ,,07/01/2019,06/30/2022,,,,
+HI,READM_30_HF,Heart failure (HF) 30-Day Readmission Rate,0.00 ,19.00 ,0.00 ,14.00 ,,07/01/2019,06/30/2022,,,,
+HI,READM_30_HIP_KNEE,Rate of readmission after hip/knee replacement,0.00 ,89.00 ,0.00 ,4.00 ,,07/01/2019,06/30/2022,,,,
+HI,READM_30_HOSP_WIDE,Rate of readmission after discharge from hospital (hospital-wide),0.00 ,40.00 ,0.00 ,46.00 ,,07/01/2021,06/30/2022,,,,
+HI,READM_30_PN,Pneumonia (PN) 30-Day Readmission Rate,0.00 ,48.00 ,0.00 ,38.00 ,,07/01/2019,06/30/2022,,,,
+GU,EDAC_30_AMI,Hospital return days for heart attack patients,0.00 ,24.00 ,0.00 ,6.00 ,5,07/01/2019,06/30/2022,,,,
+GU,EDAC_30_HF,Hospital return days for heart failure patients,0.00 ,71.00 ,0.00 ,35.00 ,5,07/01/2019,06/30/2022,,,,
+GU,EDAC_30_PN,Hospital return days for pneumonia patients,0.00 ,50.00 ,0.00 ,27.00 ,5,07/01/2019,06/30/2022,,,,
+GU,OP_32,"Rate of unplanned hospital visits after colonoscopy (per 1,000 colonoscopies)",0.00 ,97.00 ,0.00 ,11.00 ,5,01/01/2019,12/31/2021,,,,
+GU,OP_35_ADM,Rate of inpatient admissions for patients receiving outpatient chemotherapy,0.00 ,75.00 ,0.00 ,22.00 ,5,01/01/2021,12/31/2021,,,,
+GU,OP_35_ED,Rate of emergency department (ED) visits for patients receiving outpatient chemotherapy,0.00 ,20.00 ,1.00 ,74.00 ,5,01/01/2021,12/31/2021,,,,
+GU,OP_36,Ratio of unplanned hospital visits after hospital outpatient surgery,0.00 ,12.00 ,0.00 ,3.00 ,5,01/01/2021,12/31/2021,,,,
+GU,READM_30_AMI,Acute Myocardial Infarction (AMI) 30-Day Readmission Rate,0.00 ,27.00 ,0.00 ,93.00 ,5,07/01/2019,06/30/2022,,,,
+GU,READM_30_CABG,Rate of readmission for CABG,0.00 ,54.00 ,2.00 ,69.00 ,5,07/01/2019,06/30/2022,,,,
+GU,READM_30_COPD,Rate of readmission for chronic obstructive pulmonary disease (COPD) patients,0.00 ,47.00 ,0.00 ,39.00 ,5,07/01/2019,06/30/2022,,,,
+GU,READM_30_HF,Heart failure (HF) 30-Day Readmission Rate,0.00 ,64.00 ,0.00 ,62.00 ,5,07/01/2019,06/30/2022,,,,
+GU,READM_30_HIP_KNEE,Rate of readmission after hip/knee replacement,0.00 ,107.00 ,1.00 ,10.00 ,5,07/01/2019,06/30/2022,,,,
+GU,READM_30_HOSP_WIDE,Rate of readmission after discharge from hospital (hospital-wide),0.00 ,69.00 ,1.00 ,43.00 ,5,07/01/2021,06/30/2022,,,,
+GU,READM_30_PN,Pneumonia (PN) 30-Day Readmission Rate,0.00 ,31.00 ,0.00 ,5.00 ,5,07/01/2019,06/30/2022,,,,
+GA,EDAC_30_AMI,Hospital return days for heart attack patients,0.00 ,70.00 ,0.00 ,40.00 ,,07/01/2019,06/30/2022,,,,
+GA,EDAC_30_HF,Hospital return days for heart failure patients,0.00 ,19.00 ,0.00 ,6.00 ,,07/01/2019,06/30/2022,,,,
+GA,EDAC_30_PN,Hospital return days for pneumonia patients,0.00 ,16.00 ,1.00 ,13.00 ,,07/01/2019,06/30/2022,,,,
+GA,OP_32,"Rate of unplanned hospital visits after colonoscopy (per 1,000 colonoscopies)",0.00 ,17.00 ,0.00 ,13.00 ,,01/01/2019,12/31/2021,,,,
+GA,OP_35_ADM,Rate of inpatient admissions for patients receiving outpatient chemotherapy,0.00 ,17.00 ,0.00 ,7.00 ,,01/01/2021,12/31/2021,,,,
+GA,OP_35_ED,Rate of emergency department (ED) visits for patients receiving outpatient chemotherapy,0.00 ,6.00 ,1.00 ,27.00 ,,01/01/2021,12/31/2021,,,,
+GA,OP_36,Ratio of unplanned hospital visits after hospital outpatient surgery,0.00 ,3.00 ,0.00 ,0.00 ,,01/01/2021,12/31/2021,,,,
+GA,READM_30_AMI,Acute Myocardial Infarction (AMI) 30-Day Readmission Rate,0.00 ,19.00 ,0.00 ,15.00 ,,07/01/2019,06/30/2022,,,,
+GA,READM_30_CABG,Rate of readmission for CABG,0.00 ,23.00 ,3.00 ,8.00 ,,07/01/2019,06/30/2022,,,,
+GA,READM_30_COPD,Rate of readmission for chronic obstructive pulmonary disease (COPD) patients,0.00 ,12.00 ,0.00 ,14.00 ,,07/01/2019,06/30/2022,,,,
+GA,READM_30_HF,Heart failure (HF) 30-Day Readmission Rate,0.00 ,29.00 ,0.00 ,5.00 ,,07/01/2019,06/30/2022,,,,
+GA,READM_30_HIP_KNEE,Rate of readmission after hip/knee replacement,0.00 ,39.00 ,0.00 ,4.00 ,,07/01/2019,06/30/2022,,,,
+GA,READM_30_HOSP_WIDE,Rate of readmission after discharge from hospital (hospital-wide),0.00 ,23.00 ,0.00 ,18.00 ,,07/01/2021,06/30/2022,25.00 ,57.00 ,10.00 ,33.00 
+GA,READM_30_PN,Pneumonia (PN) 30-Day Readmission Rate,0.00 ,31.00 ,0.00 ,12.00 ,,07/01/2019,06/30/2022,23.00 ,149.00 ,40.00 ,139.00 
+FL,EDAC_30_AMI,Hospital return days for heart attack patients,0.00 ,10.00 ,0.00 ,1.00 ,,07/01/2019,06/30/2022,22.00 ,191.00 ,42.00 ,103.00 
+FL,EDAC_30_HF,Hospital return days for heart failure patients,0.00 ,41.00 ,1.00 ,4.00 ,,07/01/2019,06/30/2022,22.00 ,189.00 ,44.00 ,65.00 
+FL,EDAC_30_PN,Hospital return days for pneumonia patients,0.00 ,41.00 ,2.00 ,4.00 ,,07/01/2019,06/30/2022,21.00 ,152.00 ,97.00 ,55.00 
+FL,OP_32,"Rate of unplanned hospital visits after colonoscopy (per 1,000 colonoscopies)",0.00 ,35.00 ,0.00 ,8.00 ,,01/01/2019,12/31/2021,20.00 ,88.00 ,46.00 ,26.00 
+FL,OP_35_ADM,Rate of inpatient admissions for patients receiving outpatient chemotherapy,0.00 ,43.00 ,0.00 ,4.00 ,,01/01/2021,12/31/2021,19.00 ,65.00 ,3.00 ,40.00 
+FL,OP_35_ED,Rate of emergency department (ED) visits for patients receiving outpatient chemotherapy,0.00 ,53.00 ,2.00 ,0.00 ,,01/01/2021,12/31/2021,18.00 ,97.00 ,24.00 ,13.00 
+FL,OP_36,Ratio of unplanned hospital visits after hospital outpatient surgery,0.00 ,12.00 ,0.00 ,1.00 ,,01/01/2021,12/31/2021,17.00 ,69.00 ,6.00 ,32.00 
+FL,READM_30_AMI,Acute Myocardial Infarction (AMI) 30-Day Readmission Rate,0.00 ,47.00 ,1.00 ,7.00 ,,07/01/2019,06/30/2022,17.00 ,101.00 ,13.00 ,19.00 
+FL,READM_30_CABG,Rate of readmission for CABG,0.00 ,79.00 ,0.00 ,9.00 ,,07/01/2019,06/30/2022,16.00 ,59.00 ,28.00 ,23.00 
+FL,READM_30_COPD,Rate of readmission for chronic obstructive pulmonary disease (COPD) patients,0.00 ,31.00 ,0.00 ,36.00 ,,07/01/2019,06/30/2022,15.00 ,51.00 ,9.00 ,38.00 
+FL,READM_30_HF,Heart failure (HF) 30-Day Readmission Rate,0.00 ,31.00 ,0.00 ,36.00 ,,07/01/2019,06/30/2022,15.00 ,72.00 ,8.00 ,17.00 
+FL,READM_30_HIP_KNEE,Rate of readmission after hip/knee replacement,0.00 ,21.00 ,0.00 ,5.00 ,,07/01/2019,06/30/2022,15.00 ,31.00 ,0.00 ,35.00 
+FL,READM_30_HOSP_WIDE,Rate of readmission after discharge from hospital (hospital-wide),0.00 ,52.00 ,0.00 ,45.00 ,,07/01/2021,06/30/2022,15.00 ,34.00 ,1.00 ,33.00 
+FL,READM_30_PN,Pneumonia (PN) 30-Day Readmission Rate,0.00 ,31.00 ,0.00 ,28.00 ,,07/01/2019,06/30/2022,14.00 ,41.00 ,9.00 ,26.00 
+DE,EDAC_30_AMI,Hospital return days for heart attack patients,0.00 ,75.00 ,0.00 ,7.00 ,,07/01/2019,06/30/2022,14.00 ,62.00 ,21.00 ,9.00 
+DE,EDAC_30_HF,Hospital return days for heart failure patients,0.00 ,32.00 ,1.00 ,29.00 ,,07/01/2019,06/30/2022,14.00 ,75.00 ,4.00 ,23.00 
+DE,EDAC_30_PN,Hospital return days for pneumonia patients,0.00 ,33.00 ,0.00 ,42.00 ,,07/01/2019,06/30/2022,13.00 ,19.00 ,0.00 ,13.00 
+DE,OP_32,"Rate of unplanned hospital visits after colonoscopy (per 1,000 colonoscopies)",0.00 ,14.00 ,0.00 ,3.00 ,,01/01/2019,12/31/2021,13.00 ,41.00 ,2.00 ,69.00 
+DE,OP_35_ADM,Rate of inpatient admissions for patients receiving outpatient chemotherapy,0.00 ,65.00 ,1.00 ,27.00 ,,01/01/2021,12/31/2021,13.00 ,75.00 ,11.00 ,14.00 
+DE,OP_35_ED,Rate of emergency department (ED) visits for patients receiving outpatient chemotherapy,0.00 ,30.00 ,0.00 ,27.00 ,,01/01/2021,12/31/2021,12.00 ,39.00 ,6.00 ,29.00 
+DE,OP_36,Ratio of unplanned hospital visits after hospital outpatient surgery,0.00 ,81.00 ,0.00 ,12.00 ,,01/01/2021,12/31/2021,12.00 ,13.00 ,1.00 ,19.00 
+DE,READM_30_AMI,Acute Myocardial Infarction (AMI) 30-Day Readmission Rate,0.00 ,81.00 ,0.00 ,20.00 ,,07/01/2019,06/30/2022,12.00 ,103.00 ,22.00 ,25.00 
+DE,READM_30_CABG,Rate of readmission for CABG,0.00 ,15.00 ,1.00 ,58.00 ,,07/01/2019,06/30/2022,11.00 ,58.00 ,13.00 ,19.00 
+DE,READM_30_COPD,Rate of readmission for chronic obstructive pulmonary disease (COPD) patients,0.00 ,23.00 ,0.00 ,63.00 ,,07/01/2019,06/30/2022,11.00 ,41.00 ,6.00 ,51.00 
+DE,READM_30_HF,Heart failure (HF) 30-Day Readmission Rate,0.00 ,13.00 ,0.00 ,1.00 ,,07/01/2019,06/30/2022,11.00 ,51.00 ,2.00 ,62.00 
+DE,READM_30_HIP_KNEE,Rate of readmission after hip/knee replacement,0.00 ,40.00 ,0.00 ,82.00 ,,07/01/2019,06/30/2022,11.00 ,66.00 ,20.00 ,25.00 
+DE,READM_30_HOSP_WIDE,Rate of readmission after discharge from hospital (hospital-wide),0.00 ,53.00 ,1.00 ,71.00 ,,07/01/2021,06/30/2022,10.00 ,86.00 ,27.00 ,138.00 
+DE,READM_30_PN,Pneumonia (PN) 30-Day Readmission Rate,0.00 ,38.00 ,2.00 ,17.00 ,,07/01/2019,06/30/2022,10.00 ,50.00 ,12.00 ,32.00 
+DC,EDAC_30_AMI,Hospital return days for heart attack patients,0.00 ,119.00 ,5.00 ,10.00 ,,07/01/2019,06/30/2022,10.00 ,41.00 ,3.00 ,71.00 
+DC,EDAC_30_HF,Hospital return days for heart failure patients,0.00 ,87.00 ,0.00 ,40.00 ,,07/01/2019,06/30/2022,10.00 ,90.00 ,37.00 ,43.00 
+DC,EDAC_30_PN,Hospital return days for pneumonia patients,0.00 ,105.00 ,0.00 ,3.00 ,,07/01/2019,06/30/2022,10.00 ,16.00 ,1.00 ,15.00 
+DC,OP_32,"Rate of unplanned hospital visits after colonoscopy (per 1,000 colonoscopies)",0.00 ,54.00 ,0.00 ,41.00 ,,01/01/2019,12/31/2021,10.00 ,88.00 ,77.00 ,14.00 
+DC,OP_35_ADM,Rate of inpatient admissions for patients receiving outpatient chemotherapy,0.00 ,46.00 ,0.00 ,53.00 ,,01/01/2021,12/31/2021,9.00 ,104.00 ,26.00 ,23.00 
+DC,OP_35_ED,Rate of emergency department (ED) visits for patients receiving outpatient chemotherapy,0.00 ,25.00 ,0.00 ,3.00 ,,01/01/2021,12/31/2021,9.00 ,72.00 ,16.00 ,11.00 
+DC,OP_36,Ratio of unplanned hospital visits after hospital outpatient surgery,0.00 ,80.00 ,0.00 ,32.00 ,,01/01/2021,12/31/2021,9.00 ,45.00 ,3.00 ,59.00 
+DC,READM_30_AMI,Acute Myocardial Infarction (AMI) 30-Day Readmission Rate,0.00 ,58.00 ,1.00 ,34.00 ,,07/01/2019,06/30/2022,9.00 ,91.00 ,29.00 ,166.00 
+DC,READM_30_CABG,Rate of readmission for CABG,0.00 ,98.00 ,1.00 ,14.00 ,,07/01/2019,06/30/2022,8.00 ,52.00 ,19.00 ,2.00 
+DC,READM_30_COPD,Rate of readmission for chronic obstructive pulmonary disease (COPD) patients,0.00 ,139.00 ,4.00 ,18.00 ,,07/01/2019,06/30/2022,8.00 ,49.00 ,23.00 ,4.00 
+DC,READM_30_HF,Heart failure (HF) 30-Day Readmission Rate,0.00 ,111.00 ,3.00 ,43.00 ,,07/01/2019,06/30/2022,8.00 ,23.00 ,8.00 ,60.00 
+DC,READM_30_HIP_KNEE,Rate of readmission after hip/knee replacement,0.00 ,85.00 ,0.00 ,69.00 ,,07/01/2019,06/30/2022,8.00 ,10.00 ,1.00 ,21.00 
+DC,READM_30_HOSP_WIDE,Rate of readmission after discharge from hospital (hospital-wide),0.00 ,41.00 ,0.00 ,14.00 ,,07/01/2021,06/30/2022,8.00 ,59.00 ,19.00 ,44.00 
+DC,READM_30_PN,Pneumonia (PN) 30-Day Readmission Rate,0.00 ,124.00 ,0.00 ,55.00 ,,07/01/2019,06/30/2022,7.00 ,56.00 ,9.00 ,27.00 
+CT,EDAC_30_AMI,Hospital return days for heart attack patients,0.00 ,23.00 ,0.00 ,8.00 ,,07/01/2019,06/30/2022,7.00 ,34.00 ,4.00 ,15.00 
+CT,EDAC_30_HF,Hospital return days for heart failure patients,0.00 ,13.00 ,0.00 ,22.00 ,,07/01/2019,06/30/2022,7.00 ,33.00 ,5.00 ,14.00 
+CT,EDAC_30_PN,Hospital return days for pneumonia patients,0.00 ,10.00 ,0.00 ,19.00 ,,07/01/2019,06/30/2022,7.00 ,39.00 ,5.00 ,34.00 
+CT,OP_32,"Rate of unplanned hospital visits after colonoscopy (per 1,000 colonoscopies)",0.00 ,5.00 ,0.00 ,0.00 ,,01/01/2019,12/31/2021,7.00 ,16.00 ,1.00 ,37.00 
+CT,OP_35_ADM,Rate of inpatient admissions for patients receiving outpatient chemotherapy,0.00 ,13.00 ,0.00 ,28.00 ,,01/01/2021,12/31/2021,7.00 ,61.00 ,10.00 ,29.00 
+CT,OP_35_ED,Rate of emergency department (ED) visits for patients receiving outpatient chemotherapy,0.00 ,17.00 ,2.00 ,21.00 ,,01/01/2021,12/31/2021,7.00 ,81.00 ,29.00 ,61.00 
+CT,OP_36,Ratio of unplanned hospital visits after hospital outpatient surgery,0.00 ,19.00 ,0.00 ,14.00 ,,01/01/2021,12/31/2021,7.00 ,103.00 ,60.00 ,15.00 
+CT,READM_30_AMI,Acute Myocardial Infarction (AMI) 30-Day Readmission Rate,0.00 ,33.00 ,6.00 ,4.00 ,,07/01/2019,06/30/2022,6.00 ,16.00 ,1.00 ,34.00 
+CT,READM_30_CABG,Rate of readmission for CABG,0.00 ,26.00 ,1.00 ,15.00 ,,07/01/2019,06/30/2022,6.00 ,19.00 ,9.00 ,8.00 
+CT,READM_30_COPD,Rate of readmission for chronic obstructive pulmonary disease (COPD) patients,0.00 ,72.00 ,0.00 ,13.00 ,,07/01/2019,06/30/2022,6.00 ,17.00 ,1.00 ,20.00 
+CT,READM_30_HF,Heart failure (HF) 30-Day Readmission Rate,0.00 ,29.00 ,0.00 ,68.00 ,,07/01/2019,06/30/2022,6.00 ,70.00 ,17.00 ,13.00 
+CT,READM_30_HIP_KNEE,Rate of readmission after hip/knee replacement,0.00 ,41.00 ,0.00 ,59.00 ,,07/01/2019,06/30/2022,6.00 ,35.00 ,11.00 ,34.00 
+CT,READM_30_HOSP_WIDE,Rate of readmission after discharge from hospital (hospital-wide),0.00 ,23.00 ,0.00 ,79.00 ,,07/01/2021,06/30/2022,6.00 ,40.00 ,8.00 ,21.00 
+CT,READM_30_PN,Pneumonia (PN) 30-Day Readmission Rate,0.00 ,9.00 ,0.00 ,2.00 ,,07/01/2019,06/30/2022,5.00 ,25.00 ,9.00 ,13.00 
+CO,EDAC_30_AMI,Hospital return days for heart attack patients,0.00 ,33.00 ,0.00 ,84.00 ,,07/01/2019,06/30/2022,5.00 ,21.00 ,5.00 ,77.00 
+CO,EDAC_30_HF,Hospital return days for heart failure patients,0.00 ,55.00 ,2.00 ,59.00 ,,07/01/2019,06/30/2022,5.00 ,5.00 ,0.00 ,21.00 
+CO,EDAC_30_PN,Hospital return days for pneumonia patients,0.00 ,33.00 ,0.00 ,43.00 ,,07/01/2019,06/30/2022,5.00 ,12.00 ,0.00 ,39.00 
+CO,OP_32,"Rate of unplanned hospital visits after colonoscopy (per 1,000 colonoscopies)",0.00 ,106.00 ,6.00 ,4.00 ,,01/01/2019,12/31/2021,5.00 ,31.00 ,18.00 ,6.00 
+CO,OP_35_ADM,Rate of inpatient admissions for patients receiving outpatient chemotherapy,0.00 ,93.00 ,0.00 ,23.00 ,,01/01/2021,12/31/2021,5.00 ,53.00 ,8.00 ,71.00 
+CO,OP_35_ED,Rate of emergency department (ED) visits for patients receiving outpatient chemotherapy,0.00 ,10.00 ,0.00 ,3.00 ,,01/01/2021,12/31/2021,5.00 ,71.00 ,74.00 ,15.00 
+CO,OP_36,Ratio of unplanned hospital visits after hospital outpatient surgery,0.00 ,9.00 ,0.00 ,5.00 ,,01/01/2021,12/31/2021,5.00 ,15.00 ,0.00 ,32.00 
+CO,READM_30_AMI,Acute Myocardial Infarction (AMI) 30-Day Readmission Rate,0.00 ,9.00 ,0.00 ,5.00 ,,07/01/2019,06/30/2022,5.00 ,51.00 ,8.00 ,34.00 
+CO,READM_30_CABG,Rate of readmission for CABG,0.00 ,10.00 ,0.00 ,2.00 ,,07/01/2019,06/30/2022,5.00 ,53.00 ,23.00 ,12.00 
+CO,READM_30_COPD,Rate of readmission for chronic obstructive pulmonary disease (COPD) patients,0.00 ,7.00 ,0.00 ,7.00 ,,07/01/2019,06/30/2022,5.00 ,15.00 ,1.00 ,40.00 
+CO,READM_30_HF,Heart failure (HF) 30-Day Readmission Rate,0.00 ,2.00 ,0.00 ,3.00 ,,07/01/2019,06/30/2022,5.00 ,29.00 ,4.00 ,19.00 
+CO,READM_30_HIP_KNEE,Rate of readmission after hip/knee replacement,0.00 ,6.00 ,0.00 ,9.00 ,,07/01/2019,06/30/2022,5.00 ,39.00 ,17.00 ,18.00 
+CO,READM_30_HOSP_WIDE,Rate of readmission after discharge from hospital (hospital-wide),0.00 ,9.00 ,2.00 ,3.00 ,,07/01/2021,06/30/2022,5.00 ,33.00 ,12.00 ,24.00 
+CO,READM_30_PN,Pneumonia (PN) 30-Day Readmission Rate,0.00 ,4.00 ,0.00 ,7.00 ,,07/01/2019,06/30/2022,5.00 ,40.00 ,17.00 ,13.00 
+CA,EDAC_30_AMI,Hospital return days for heart attack patients,0.00 ,10.00 ,3.00 ,4.00 ,,07/01/2019,06/30/2022,4.00 ,11.00 ,0.00 ,12.00 
+CA,EDAC_30_HF,Hospital return days for heart failure patients,0.00 ,12.00 ,0.00 ,3.00 ,,07/01/2019,06/30/2022,4.00 ,35.00 ,11.00 ,8.00 
+CA,EDAC_30_PN,Hospital return days for pneumonia patients,0.00 ,106.00 ,0.00 ,9.00 ,,07/01/2019,06/30/2022,4.00 ,14.00 ,0.00 ,34.00 
+CA,OP_32,"Rate of unplanned hospital visits after colonoscopy (per 1,000 colonoscopies)",0.00 ,40.00 ,2.00 ,40.00 ,,01/01/2019,12/31/2021,4.00 ,26.00 ,2.00 ,52.00 
+CA,OP_35_ADM,Rate of inpatient admissions for patients receiving outpatient chemotherapy,0.00 ,57.00 ,0.00 ,46.00 ,,01/01/2021,12/31/2021,4.00 ,30.00 ,5.00 ,58.00 
+CA,OP_35_ED,Rate of emergency department (ED) visits for patients receiving outpatient chemotherapy,0.00 ,18.00 ,0.00 ,4.00 ,,01/01/2021,12/31/2021,4.00 ,4.00 ,1.00 ,19.00 
+CA,OP_36,Ratio of unplanned hospital visits after hospital outpatient surgery,0.00 ,79.00 ,0.00 ,52.00 ,,01/01/2021,12/31/2021,4.00 ,31.00 ,10.00 ,41.00 
+CA,READM_30_AMI,Acute Myocardial Infarction (AMI) 30-Day Readmission Rate,0.00 ,42.00 ,0.00 ,39.00 ,,07/01/2019,06/30/2022,4.00 ,11.00 ,3.00 ,77.00 
+CA,READM_30_CABG,Rate of readmission for CABG,0.00 ,101.00 ,0.00 ,31.00 ,,07/01/2019,06/30/2022,4.00 ,31.00 ,9.00 ,62.00 
+CA,READM_30_COPD,Rate of readmission for chronic obstructive pulmonary disease (COPD) patients,0.00 ,121.00 ,0.00 ,45.00 ,,07/01/2019,06/30/2022,4.00 ,22.00 ,3.00 ,5.00 
+CA,READM_30_HF,Heart failure (HF) 30-Day Readmission Rate,0.00 ,6.00 ,0.00 ,0.00 ,,07/01/2019,06/30/2022,4.00 ,29.00 ,23.00 ,2.00 
+CA,READM_30_HIP_KNEE,Rate of readmission after hip/knee replacement,0.00 ,4.00 ,1.00 ,1.00 ,,07/01/2019,06/30/2022,4.00 ,50.00 ,12.00 ,27.00 
+CA,READM_30_HOSP_WIDE,Rate of readmission after discharge from hospital (hospital-wide),0.00 ,5.00 ,0.00 ,1.00 ,,07/01/2021,06/30/2022,4.00 ,4.00 ,0.00 ,21.00 
+CA,READM_30_PN,Pneumonia (PN) 30-Day Readmission Rate,0.00 ,6.00 ,0.00 ,1.00 ,,07/01/2019,06/30/2022,4.00 ,37.00 ,10.00 ,52.00 
+AZ,EDAC_30_AMI,Hospital return days for heart attack patients,0.00 ,3.00 ,0.00 ,0.00 ,,07/01/2019,06/30/2022,4.00 ,68.00 ,29.00 ,31.00 
+AZ,EDAC_30_HF,Hospital return days for heart failure patients,0.00 ,7.00 ,0.00 ,0.00 ,,07/01/2019,06/30/2022,4.00 ,14.00 ,6.00 ,33.00 
+AZ,EDAC_30_PN,Hospital return days for pneumonia patients,0.00 ,7.00 ,0.00 ,0.00 ,,07/01/2019,06/30/2022,4.00 ,14.00 ,8.00 ,42.00 
+AZ,OP_32,"Rate of unplanned hospital visits after colonoscopy (per 1,000 colonoscopies)",0.00 ,5.00 ,0.00 ,1.00 ,,01/01/2019,12/31/2021,3.00 ,17.00 ,0.00 ,8.00 
+AZ,OP_35_ADM,Rate of inpatient admissions for patients receiving outpatient chemotherapy,0.00 ,6.00 ,1.00 ,0.00 ,,01/01/2021,12/31/2021,3.00 ,10.00 ,1.00 ,1.00 
+AZ,OP_35_ED,Rate of emergency department (ED) visits for patients receiving outpatient chemotherapy,0.00 ,7.00 ,0.00 ,0.00 ,,01/01/2021,12/31/2021,3.00 ,34.00 ,4.00 ,38.00 
+AZ,OP_36,Ratio of unplanned hospital visits after hospital outpatient surgery,0.00 ,6.00 ,0.00 ,0.00 ,,01/01/2021,12/31/2021,3.00 ,60.00 ,7.00 ,75.00 
+AZ,READM_30_AMI,Acute Myocardial Infarction (AMI) 30-Day Readmission Rate,0.00 ,4.00 ,0.00 ,2.00 ,,07/01/2019,06/30/2022,3.00 ,17.00 ,3.00 ,37.00 
+AZ,READM_30_CABG,Rate of readmission for CABG,0.00 ,4.00 ,0.00 ,2.00 ,,07/01/2019,06/30/2022,3.00 ,16.00 ,7.00 ,10.00 
+AZ,READM_30_COPD,Rate of readmission for chronic obstructive pulmonary disease (COPD) patients,0.00 ,5.00 ,0.00 ,2.00 ,,07/01/2019,06/30/2022,3.00 ,21.00 ,2.00 ,15.00 
+AZ,READM_30_HF,Heart failure (HF) 30-Day Readmission Rate,0.00 ,2.00 ,0.00 ,0.00 ,,07/01/2019,06/30/2022,3.00 ,19.00 ,3.00 ,1.00 
+AZ,READM_30_HIP_KNEE,Rate of readmission after hip/knee replacement,0.00 ,7.00 ,0.00 ,0.00 ,,07/01/2019,06/30/2022,3.00 ,54.00 ,12.00 ,22.00 
+AZ,READM_30_HOSP_WIDE,Rate of readmission after discharge from hospital (hospital-wide),0.00 ,5.00 ,0.00 ,1.00 ,,07/01/2021,06/30/2022,3.00 ,16.00 ,0.00 ,67.00 
+AZ,READM_30_PN,Pneumonia (PN) 30-Day Readmission Rate,0.00 ,7.00 ,0.00 ,0.00 ,,07/01/2019,06/30/2022,3.00 ,15.00 ,3.00 ,81.00 
+AS,EDAC_30_AMI,Hospital return days for heart attack patients,0.00 ,7.00 ,0.00 ,0.00 ,5,07/01/2019,06/30/2022,2.00 ,27.00 ,1.00 ,44.00 
+AS,EDAC_30_HF,Hospital return days for heart failure patients,0.00 ,27.00 ,0.00 ,0.00 ,5,07/01/2019,06/30/2022,2.00 ,21.00 ,11.00 ,49.00 
+AS,EDAC_30_PN,Hospital return days for pneumonia patients,0.00 ,18.00 ,1.00 ,6.00 ,5,07/01/2019,06/30/2022,2.00 ,12.00 ,7.00 ,34.00 
+AS,OP_32,"Rate of unplanned hospital visits after colonoscopy (per 1,000 colonoscopies)",0.00 ,24.00 ,1.00 ,0.00 ,5,01/01/2019,12/31/2021,2.00 ,11.00 ,2.00 ,14.00 
+AS,OP_35_ADM,Rate of inpatient admissions for patients receiving outpatient chemotherapy,0.00 ,16.00 ,0.00 ,9.00 ,5,01/01/2021,12/31/2021,2.00 ,29.00 ,10.00 ,24.00 
+AS,OP_35_ED,Rate of emergency department (ED) visits for patients receiving outpatient chemotherapy,0.00 ,8.00 ,0.00 ,2.00 ,5,01/01/2021,12/31/2021,2.00 ,8.00 ,3.00 ,41.00 
+AS,OP_36,Ratio of unplanned hospital visits after hospital outpatient surgery,0.00 ,26.00 ,0.00 ,2.00 ,5,01/01/2021,12/31/2021,2.00 ,4.00 ,0.00 ,17.00 
+AS,READM_30_AMI,Acute Myocardial Infarction (AMI) 30-Day Readmission Rate,0.00 ,20.00 ,0.00 ,6.00 ,5,07/01/2019,06/30/2022,2.00 ,11.00 ,0.00 ,30.00 
+AS,READM_30_CABG,Rate of readmission for CABG,0.00 ,26.00 ,0.00 ,2.00 ,5,07/01/2019,06/30/2022,2.00 ,15.00 ,8.00 ,51.00 
+AS,READM_30_COPD,Rate of readmission for chronic obstructive pulmonary disease (COPD) patients,0.00 ,59.00 ,0.00 ,9.00 ,5,07/01/2019,06/30/2022,2.00 ,18.00 ,8.00 ,47.00 
+AS,READM_30_HF,Heart failure (HF) 30-Day Readmission Rate,0.00 ,36.00 ,0.00 ,31.00 ,5,07/01/2019,06/30/2022,2.00 ,53.00 ,13.00 ,86.00 
+AS,READM_30_HIP_KNEE,Rate of readmission after hip/knee replacement,0.00 ,31.00 ,0.00 ,30.00 ,5,07/01/2019,06/30/2022,2.00 ,7.00 ,2.00 ,3.00 
+AS,READM_30_HOSP_WIDE,Rate of readmission after discharge from hospital (hospital-wide),0.00 ,13.00 ,0.00 ,4.00 ,5,07/01/2021,06/30/2022,2.00 ,49.00 ,16.00 ,21.00 
+AS,READM_30_PN,Pneumonia (PN) 30-Day Readmission Rate,0.00 ,34.00 ,0.00 ,48.00 ,5,07/01/2019,06/30/2022,1.00 ,1.00 ,1.00 ,15.00 
+AR,EDAC_30_AMI,Hospital return days for heart attack patients,0.00 ,45.00 ,1.00 ,35.00 ,,07/01/2019,06/30/2022,1.00 ,23.00 ,10.00 ,18.00 
+AR,EDAC_30_HF,Hospital return days for heart failure patients,0.00 ,40.00 ,0.00 ,28.00 ,,07/01/2019,06/30/2022,1.00 ,11.00 ,2.00 ,1.00 
+AR,EDAC_30_PN,Hospital return days for pneumonia patients,0.00 ,75.00 ,5.00 ,4.00 ,,07/01/2019,06/30/2022,1.00 ,3.00 ,0.00 ,35.00 
+AR,OP_32,"Rate of unplanned hospital visits after colonoscopy (per 1,000 colonoscopies)",0.00 ,50.00 ,0.00 ,33.00 ,,01/01/2019,12/31/2021,1.00 ,1.00 ,2.00 ,6.00 
+AR,OP_35_ADM,Rate of inpatient admissions for patients receiving outpatient chemotherapy,0.00 ,198.00 ,0.00 ,60.00 ,,01/01/2021,12/31/2021,1.00 ,35.00 ,23.00 ,95.00 
+AR,OP_35_ED,Rate of emergency department (ED) visits for patients receiving outpatient chemotherapy,0.00 ,147.00 ,0.00 ,148.00 ,,01/01/2021,12/31/2021,1.00 ,81.00 ,64.00 ,17.00 
+AR,OP_36,Ratio of unplanned hospital visits after hospital outpatient surgery,0.00 ,82.00 ,0.00 ,37.00 ,,01/01/2021,12/31/2021,1.00 ,9.00 ,1.00 ,17.00 
+AR,READM_30_AMI,Acute Myocardial Infarction (AMI) 30-Day Readmission Rate,0.00 ,165.00 ,2.00 ,93.00 ,,07/01/2019,06/30/2022,1.00 ,33.00 ,30.00 ,1.00 
+AR,READM_30_CABG,Rate of readmission for CABG,0.00 ,51.00 ,0.00 ,8.00 ,,07/01/2019,06/30/2022,1.00 ,22.00 ,42.00 ,0.00 
+AR,READM_30_COPD,Rate of readmission for chronic obstructive pulmonary disease (COPD) patients,0.00 ,21.00 ,1.00 ,36.00 ,,07/01/2019,06/30/2022,1.00 ,20.00 ,2.00 ,3.00 
+AR,READM_30_HF,Heart failure (HF) 30-Day Readmission Rate,0.00 ,22.00 ,0.00 ,36.00 ,,07/01/2019,06/30/2022,1.00 ,17.00 ,2.00 ,36.00 
+AR,READM_30_HIP_KNEE,Rate of readmission after hip/knee replacement,0.00 ,39.00 ,0.00 ,18.00 ,,07/01/2019,06/30/2022,1.00 ,2.00 ,0.00 ,31.00 
+AR,READM_30_HOSP_WIDE,Rate of readmission after discharge from hospital (hospital-wide),0.00 ,20.00 ,0.00 ,4.00 ,,07/01/2021,06/30/2022,1.00 ,23.00 ,2.00 ,8.00 
+AR,READM_30_PN,Pneumonia (PN) 30-Day Readmission Rate,0.00 ,44.00 ,0.00 ,33.00 ,,07/01/2019,06/30/2022,1.00 ,32.00 ,10.00 ,4.00 
+AL,EDAC_30_AMI,Hospital return days for heart attack patients,0.00 ,52.00 ,2.00 ,21.00 ,,07/01/2019,06/30/2022,1.00 ,31.00 ,24.00 ,2.00 
+AL,EDAC_30_HF,Hospital return days for heart failure patients,0.00 ,54.00 ,0.00 ,6.00 ,,07/01/2019,06/30/2022,1.00 ,5.00 ,1.00 ,0.00 
+AL,EDAC_30_PN,Hospital return days for pneumonia patients,0.00 ,16.00 ,0.00 ,26.00 ,,07/01/2019,06/30/2022,1.00 ,2.00 ,4.00 ,0.00 
+AL,OP_32,"Rate of unplanned hospital visits after colonoscopy (per 1,000 colonoscopies)",0.00 ,34.00 ,0.00 ,18.00 ,,01/01/2019,12/31/2021,1.00 ,2.00 ,4.00 ,0.00 
+AL,OP_35_ADM,Rate of inpatient admissions for patients receiving outpatient chemotherapy,0.00 ,26.00 ,0.00 ,31.00 ,,01/01/2021,12/31/2021,1.00 ,6.00 ,6.00 ,12.00 
+AL,OP_35_ED,Rate of emergency department (ED) visits for patients receiving outpatient chemotherapy,0.00 ,13.00 ,0.00 ,3.00 ,,01/01/2021,12/31/2021,1.00 ,19.00 ,6.00 ,3.00 
+AL,OP_36,Ratio of unplanned hospital visits after hospital outpatient surgery,0.00 ,40.00 ,0.00 ,34.00 ,,01/01/2021,12/31/2021,1.00 ,46.00 ,15.00 ,24.00 
+AL,READM_30_AMI,Acute Myocardial Infarction (AMI) 30-Day Readmission Rate,0.00 ,49.00 ,1.00 ,24.00 ,,07/01/2019,06/30/2022,1.00 ,6.00 ,1.00 ,11.00 
+AL,READM_30_CABG,Rate of readmission for CABG,0.00 ,25.00 ,1.00 ,14.00 ,,07/01/2019,06/30/2022,1.00 ,8.00 ,2.00 ,9.00 
+AL,READM_30_COPD,Rate of readmission for chronic obstructive pulmonary disease (COPD) patients,0.00 ,72.00 ,0.00 ,3.00 ,,07/01/2019,06/30/2022,0.00 ,5.00 ,6.00 ,38.00 
+AL,READM_30_HF,Heart failure (HF) 30-Day Readmission Rate,0.00 ,16.00 ,1.00 ,35.00 ,,07/01/2019,06/30/2022,0.00 ,1.00 ,0.00 ,14.00 
+AL,READM_30_HIP_KNEE,Rate of readmission after hip/knee replacement,0.00 ,17.00 ,0.00 ,35.00 ,,07/01/2019,06/30/2022,0.00 ,8.00 ,2.00 ,0.00 
+AL,READM_30_HOSP_WIDE,Rate of readmission after discharge from hospital (hospital-wide),0.00 ,29.00 ,0.00 ,39.00 ,,07/01/2021,06/30/2022,0.00 ,8.00 ,2.00 ,0.00 
+AL,READM_30_PN,Pneumonia (PN) 30-Day Readmission Rate,0.00 ,20.00 ,0.00 ,2.00 ,,07/01/2019,06/30/2022,0.00 ,1.00 ,2.00 ,39.00 
+AK,EDAC_30_AMI,Hospital return days for heart attack patients,0.00 ,50.00 ,0.00 ,36.00 ,,07/01/2019,06/30/2022,0.00 ,4.00 ,4.00 ,36.00 
+AK,EDAC_30_HF,Hospital return days for heart failure patients,0.00 ,62.00 ,0.00 ,24.00 ,,07/01/2019,06/30/2022,0.00 ,4.00 ,2.00 ,42.00 
+AK,EDAC_30_PN,Hospital return days for pneumonia patients,0.00 ,36.00 ,0.00 ,10.00 ,,07/01/2019,06/30/2022,0.00 ,15.00 ,11.00 ,11.00 
+AK,OP_32,"Rate of unplanned hospital visits after colonoscopy (per 1,000 colonoscopies)",0.00 ,67.00 ,0.00 ,21.00 ,,01/01/2019,12/31/2021,0.00 ,8.00 ,2.00 ,14.00 
+AK,OP_35_ADM,Rate of inpatient admissions for patients receiving outpatient chemotherapy,0.00 ,7.00 ,0.00 ,3.00 ,,01/01/2021,12/31/2021,0.00 ,17.00 ,9.00 ,17.00 
+AK,OP_35_ED,Rate of emergency department (ED) visits for patients receiving outpatient chemotherapy,0.00 ,8.00 ,0.00 ,6.00 ,,01/01/2021,12/31/2021,0.00 ,27.00 ,16.00 ,4.00 
+AK,OP_36,Ratio of unplanned hospital visits after hospital outpatient surgery,0.00 ,8.00 ,0.00 ,6.00 ,,01/01/2021,12/31/2021,0.00 ,13.00 ,13.00 ,30.00 
+AK,READM_30_AMI,Acute Myocardial Infarction (AMI) 30-Day Readmission Rate,0.00 ,5.00 ,0.00 ,12.00 ,,07/01/2019,06/30/2022,0.00 ,4.00 ,2.00 ,8.00 
+AK,READM_30_CABG,Rate of readmission for CABG,0.00 ,2.00 ,0.00 ,0.00 ,,07/01/2019,06/30/2022,0.00 ,9.00 ,3.00 ,3.00 
+AK,READM_30_COPD,Rate of readmission for chronic obstructive pulmonary disease (COPD) patients,0.00 ,10.00 ,0.00 ,9.00 ,,07/01/2019,06/30/2022,0.00 ,4.00 ,0.00 ,3.00 
+AK,READM_30_HF,Heart failure (HF) 30-Day Readmission Rate,0.00 ,8.00 ,0.00 ,11.00 ,,07/01/2019,06/30/2022,0.00 ,1.00 ,2.00 ,4.00 
+AK,READM_30_HIP_KNEE,Rate of readmission after hip/knee replacement,0.00 ,8.00 ,0.00 ,2.00 ,,07/01/2019,06/30/2022,0.00 ,2.00 ,5.00 ,0.00 
+AK,READM_30_HOSP_WIDE,Rate of readmission after discharge from hospital (hospital-wide),0.00 ,17.00 ,1.00 ,3.00 ,,07/01/2021,06/30/2022,0.00 ,14.00 ,12.00 ,2.00 
+AK,READM_30_PN,Pneumonia (PN) 30-Day Readmission Rate,0.00 ,11.00 ,0.00 ,9.00 ,,07/01/2019,06/30/2022,0.00 ,4.00 ,0.00 ,13.00 
